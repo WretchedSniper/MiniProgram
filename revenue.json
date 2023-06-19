@@ -1,1 +1,3560 @@
-[{"Name": "高级头盔修护", "Amount": 5, "Prices": {"Min": 13225, "Stable": 13255, "Max": 14060}, "Materials": [{"Name": "神盾头盔", "Amount": 1, "Costs": {"Min": 9998, "Stable": 9999, "Max": 9999}}], "Costs": {"Min": 9998, "Stable": 9999, "Max": 9999}, "Revenue": {"Min": 3226, "Stable": 3256, "Max": 4062}}, {"Name": "12.7全金属弹", "Amount": 10, "Prices": {"Min": 19300, "Stable": 19300, "Max": 19380}, "Materials": [{"Name": "12.7穿甲弹", "Amount": 10, "Costs": {"Min": 7200, "Stable": 7360, "Max": 7490}}, {"Name": "黑火药", "Amount": 4, "Costs": {"Min": 2888, "Stable": 2912, "Max": 2940}}, {"Name": "无烟火药", "Amount": 2, "Costs": {"Min": 480, "Stable": 480, "Max": 512}}, {"Name": "阿马托火药", "Amount": 3, "Costs": {"Min": 2700, "Stable": 2736, "Max": 2913}}, {"Name": "铝合金", "Amount": 8, "Costs": {"Min": 1592, "Stable": 1632, "Max": 1856}}, {"Name": "钛合金", "Amount": 2, "Costs": {"Min": 1278, "Stable": 1278, "Max": 1312}}], "Costs": {"Min": 16138, "Stable": 16398, "Max": 17023}, "Revenue": {"Min": 2277, "Stable": 2902, "Max": 3242}}, {"Name": "12.7穿甲弹", "Amount": 10, "Prices": {"Min": 7200, "Stable": 7360, "Max": 7490}, "Materials": [{"Name": "12.7空尖弹", "Amount": 10, "Costs": {"Min": 2400, "Stable": 2400, "Max": 2590}}, {"Name": "黑火药", "Amount": 3, "Costs": {"Min": 2166, "Stable": 2184, "Max": 2205}}, {"Name": "无烟火药", "Amount": 3, "Costs": {"Min": 720, "Stable": 720, "Max": 768}}, {"Name": "铝合金", "Amount": 2, "Costs": {"Min": 398, "Stable": 408, "Max": 464}}], "Costs": {"Min": 5684, "Stable": 5712, "Max": 6027}, "Revenue": {"Min": 1173, "Stable": 1648, "Max": 1806}}, {"Name": "5.56全金属弹", "Amount": 20, "Prices": {"Min": 10200, "Stable": 10200, "Max": 10300}, "Materials": [{"Name": "5.56穿甲弹", "Amount": 20, "Costs": {"Min": 4200, "Stable": 4200, "Max": 4260}}, {"Name": "无烟火药", "Amount": 2, "Costs": {"Min": 480, "Stable": 480, "Max": 512}}, {"Name": "阿马托火药", "Amount": 2, "Costs": {"Min": 1800, "Stable": 1824, "Max": 1942}}, {"Name": "铝合金", "Amount": 7, "Costs": {"Min": 1393, "Stable": 1428, "Max": 1624}}, {"Name": "钛合金", "Amount": 1, "Costs": {"Min": 639, "Stable": 639, "Max": 656}}], "Costs": {"Min": 8512, "Stable": 8571, "Max": 8994}, "Revenue": {"Min": 1206, "Stable": 1629, "Max": 1788}}, {"Name": "双导轨组合", "Amount": 1, "Prices": {"Min": 2887, "Stable": 2969, "Max": 3450}, "Materials": [{"Name": "瞄具加装", "Amount": 1, "Costs": {"Min": 599, "Stable": 619, "Max": 688}}, {"Name": "握把加装", "Amount": 1, "Costs": {"Min": 625, "Stable": 720, "Max": 749}}, {"Name": "碳纤维", "Amount": 1, "Costs": {"Min": 620, "Stable": 626, "Max": 635}}], "Costs": {"Min": 1844, "Stable": 1965, "Max": 2072}, "Revenue": {"Min": 815, "Stable": 1004, "Max": 1606}}, {"Name": "5.56穿甲弹", "Amount": 20, "Prices": {"Min": 4200, "Stable": 4200, "Max": 4260}, "Materials": [{"Name": "5.56空尖弹", "Amount": 20, "Costs": {"Min": 1300, "Stable": 1300, "Max": 1300}}, {"Name": "黑火药", "Amount": 2, "Costs": {"Min": 1444, "Stable": 1456, "Max": 1470}}, {"Name": "无烟火药", "Amount": 2, "Costs": {"Min": 480, "Stable": 480, "Max": 512}}, {"Name": "铝合金", "Amount": 1, "Costs": {"Min": 199, "Stable": 204, "Max": 232}}], "Costs": {"Min": 3423, "Stable": 3440, "Max": 3514}, "Revenue": {"Min": 686, "Stable": 760, "Max": 837}}, {"Name": "9mm穿甲弹", "Amount": 20, "Prices": {"Min": 4400, "Stable": 4400, "Max": 4660}, "Materials": [{"Name": "9mm空尖弹", "Amount": 20, "Costs": {"Min": 2280, "Stable": 2280, "Max": 2280}}, {"Name": "黑火药", "Amount": 1, "Costs": {"Min": 722, "Stable": 728, "Max": 735}}, {"Name": "无烟火药", "Amount": 2, "Costs": {"Min": 480, "Stable": 480, "Max": 512}}, {"Name": "铝合金", "Amount": 1, "Costs": {"Min": 199, "Stable": 204, "Max": 232}}], "Costs": {"Min": 3681, "Stable": 3692, "Max": 3759}, "Revenue": {"Min": 641, "Stable": 708, "Max": 979}}, {"Name": "近身冲突组合", "Amount": 1, "Prices": {"Min": 2772, "Stable": 2872, "Max": 3033}, "Materials": [{"Name": "握把加装", "Amount": 1, "Costs": {"Min": 625, "Stable": 720, "Max": 749}}, {"Name": "枪口加装", "Amount": 1, "Costs": {"Min": 632, "Stable": 877, "Max": 877}}, {"Name": "碳纤维", "Amount": 1, "Costs": {"Min": 620, "Stable": 626, "Max": 635}}], "Costs": {"Min": 1877, "Stable": 2223, "Max": 2261}, "Revenue": {"Min": 511, "Stable": 649, "Max": 1156}}, {"Name": "狙击大师组合", "Amount": 1, "Prices": {"Min": 2732, "Stable": 2768, "Max": 2860}, "Materials": [{"Name": "瞄具加装", "Amount": 1, "Costs": {"Min": 599, "Stable": 619, "Max": 688}}, {"Name": "枪口加装", "Amount": 1, "Costs": {"Min": 632, "Stable": 877, "Max": 877}}, {"Name": "碳纤维", "Amount": 1, "Costs": {"Min": 620, "Stable": 626, "Max": 635}}], "Costs": {"Min": 1851, "Stable": 2122, "Max": 2200}, "Revenue": {"Min": 532, "Stable": 646, "Max": 1009}}, {"Name": "绿漆", "Amount": 1, "Prices": {"Min": 2990, "Stable": 2990, "Max": 2993}, "Materials": [{"Name": "黄漆", "Amount": 1, "Costs": {"Min": 1399, "Stable": 1415, "Max": 1542}}, {"Name": "青漆", "Amount": 1, "Costs": {"Min": 984, "Stable": 984, "Max": 1028}}], "Costs": {"Min": 2383, "Stable": 2399, "Max": 2570}, "Revenue": {"Min": 420, "Stable": 591, "Max": 610}}, {"Name": "初级护甲修护", "Amount": 5, "Prices": {"Min": 1745, "Stable": 1745, "Max": 1770}, "Materials": [{"Name": "复合战术护甲", "Amount": 1, "Costs": {"Min": 1200, "Stable": 1211, "Max": 1211}}], "Costs": {"Min": 1200, "Stable": 1211, "Max": 1211}, "Revenue": {"Min": 534, "Stable": 534, "Max": 570}}, {"Name": "急救包", "Amount": 5, "Prices": {"Min": 2495, "Stable": 2520, "Max": 2625}, "Materials": [{"Name": "绷带", "Amount": 10, "Costs": {"Min": 250, "Stable": 250, "Max": 250}}, {"Name": "酒精", "Amount": 5, "Costs": {"Min": 750, "Stable": 750, "Max": 810}}, {"Name": "棉布", "Amount": 5, "Costs": {"Min": 1000, "Stable": 1000, "Max": 1220}}], "Costs": {"Min": 2000, "Stable": 2000, "Max": 2280}, "Revenue": {"Min": 215, "Stable": 520, "Max": 625}}, {"Name": "神盾战术护甲", "Amount": 1, "Prices": {"Min": 20700, "Stable": 21301, "Max": 21301}, "Materials": [{"Name": "强化战术护甲", "Amount": 1, "Costs": {"Min": 4950, "Stable": 4970, "Max": 4970}}, {"Name": "晶须硅钢", "Amount": 2, "Costs": {"Min": 4390, "Stable": 4556, "Max": 4720}}, {"Name": "翻毛皮革", "Amount": 2, "Costs": {"Min": 2096, "Stable": 2096, "Max": 2368}}, {"Name": "碳纤维", "Amount": 4, "Costs": {"Min": 2480, "Stable": 2504, "Max": 2540}}, {"Name": "凯夫拉纤维", "Amount": 3, "Costs": {"Min": 4965, "Stable": 6816, "Max": 7398}}], "Costs": {"Min": 18881, "Stable": 20942, "Max": 21996}, "Revenue": {"Min": -1296, "Stable": 359, "Max": 2420}}, {"Name": "翻毛皮革", "Amount": 1, "Prices": {"Min": 1048, "Stable": 1048, "Max": 1184}, "Materials": [{"Name": "橡胶", "Amount": 1, "Costs": {"Min": 100, "Stable": 100, "Max": 122}}, {"Name": "漆皮革", "Amount": 4, "Costs": {"Min": 616, "Stable": 620, "Max": 688}}], "Costs": {"Min": 716, "Stable": 720, "Max": 810}, "Revenue": {"Min": 238, "Stable": 328, "Max": 468}}, {"Name": "初级头盔修护", "Amount": 5, "Prices": {"Min": 945, "Stable": 945, "Max": 980}, "Materials": [{"Name": "复合头盔", "Amount": 1, "Costs": {"Min": 641, "Stable": 645, "Max": 645}}], "Costs": {"Min": 641, "Stable": 645, "Max": 645}, "Revenue": {"Min": 300, "Stable": 300, "Max": 339}}, {"Name": "神盾头盔", "Amount": 1, "Prices": {"Min": 9998, "Stable": 9999, "Max": 9999}, "Materials": [{"Name": "强化头盔", "Amount": 1, "Costs": {"Min": 2174, "Stable": 2174, "Max": 2174}}, {"Name": "晶须硅钢", "Amount": 1, "Costs": {"Min": 2195, "Stable": 2278, "Max": 2360}}, {"Name": "钢化镜片", "Amount": 10, "Costs": {"Min": 3170, "Stable": 3170, "Max": 3210}}, {"Name": "钛合金", "Amount": 1, "Costs": {"Min": 639, "Stable": 639, "Max": 656}}, {"Name": "防水布", "Amount": 2, "Costs": {"Min": 1392, "Stable": 1458, "Max": 1562}}], "Costs": {"Min": 9570, "Stable": 9719, "Max": 9962}, "Revenue": {"Min": 36, "Stable": 280, "Max": 429}}, {"Name": "9mm空尖弹", "Amount": 20, "Prices": {"Min": 2280, "Stable": 2280, "Max": 2280}, "Materials": [{"Name": "9mm普通弹", "Amount": 20, "Costs": {"Min": 480, "Stable": 480, "Max": 480}}, {"Name": "黑火药", "Amount": 2, "Costs": {"Min": 1444, "Stable": 1456, "Max": 1470}}, {"Name": "特种钢", "Amount": 1, "Costs": {"Min": 85, "Stable": 85, "Max": 85}}], "Costs": {"Min": 2009, "Stable": 2021, "Max": 2035}, "Revenue": {"Min": 245, "Stable": 259, "Max": 271}}, {"Name": "投掷雷达", "Amount": 2, "Prices": {"Min": 2840, "Stable": 2840, "Max": 3088}, "Materials": [{"Name": "电子芯片", "Amount": 1, "Costs": {"Min": 217, "Stable": 227, "Max": 254}}, {"Name": "铝合金", "Amount": 2, "Costs": {"Min": 398, "Stable": 408, "Max": 464}}, {"Name": "塑料", "Amount": 10, "Costs": {"Min": 1980, "Stable": 1980, "Max": 1980}}], "Costs": {"Min": 2595, "Stable": 2615, "Max": 2698}, "Revenue": {"Min": 142, "Stable": 225, "Max": 493}}, {"Name": "碳纤维", "Amount": 1, "Prices": {"Min": 620, "Stable": 626, "Max": 635}, "Materials": [{"Name": "橡胶", "Amount": 1, "Costs": {"Min": 100, "Stable": 100, "Max": 122}}, {"Name": "玻璃纤维", "Amount": 4, "Costs": {"Min": 356, "Stable": 356, "Max": 412}}], "Costs": {"Min": 456, "Stable": 456, "Max": 534}, "Revenue": {"Min": 86, "Stable": 170, "Max": 179}}, {"Name": "钢化镜片", "Amount": 2, "Prices": {"Min": 634, "Stable": 634, "Max": 642}, "Materials": [{"Name": "玻璃", "Amount": 6, "Costs": {"Min": 390, "Stable": 408, "Max": 468}}, {"Name": "特种钢", "Amount": 1, "Costs": {"Min": 85, "Stable": 85, "Max": 85}}], "Costs": {"Min": 475, "Stable": 493, "Max": 553}, "Revenue": {"Min": 81, "Stable": 141, "Max": 167}}, {"Name": "止痛药", "Amount": 2, "Prices": {"Min": 204, "Stable": 204, "Max": 204}, "Materials": [{"Name": "麻醉剂", "Amount": 3, "Costs": {"Min": 153, "Stable": 159, "Max": 159}}], "Costs": {"Min": 153, "Stable": 159, "Max": 159}, "Revenue": {"Min": 45, "Stable": 45, "Max": 51}}, {"Name": "阿马托火药", "Amount": 1, "Prices": {"Min": 900, "Stable": 912, "Max": 971}, "Materials": [{"Name": "无烟火药", "Amount": 2, "Costs": {"Min": 480, "Stable": 480, "Max": 512}}, {"Name": "高纯度硫磺", "Amount": 2, "Costs": {"Min": 410, "Stable": 410, "Max": 446}}], "Costs": {"Min": 890, "Stable": 890, "Max": 958}, "Revenue": {"Min": -58, "Stable": 22, "Max": 81}}, {"Name": "复合防弹陶瓷", "Amount": 1, "Prices": {"Min": 400, "Stable": 400, "Max": 424}, "Materials": [{"Name": "防弹陶瓷", "Amount": 4, "Costs": {"Min": 244, "Stable": 256, "Max": 280}}, {"Name": "玻璃", "Amount": 1, "Costs": {"Min": 65, "Stable": 68, "Max": 78}}, {"Name": "硅岩", "Amount": 1, "Costs": {"Min": 50, "Stable": 62, "Max": 64}}], "Costs": {"Min": 359, "Stable": 386, "Max": 422}, "Revenue": {"Min": -22, "Stable": 14, "Max": 65}}, {"Name": "精制硝石", "Amount": 1, "Prices": {"Min": 190, "Stable": 190, "Max": 201}, "Materials": [{"Name": "硅岩", "Amount": 3, "Costs": {"Min": 150, "Stable": 186, "Max": 192}}], "Costs": {"Min": 150, "Stable": 186, "Max": 192}, "Revenue": {"Min": -2, "Stable": 4, "Max": 51}}, {"Name": "12.7空尖弹", "Amount": 10, "Prices": {"Min": 2400, "Stable": 2400, "Max": 2590}, "Materials": [{"Name": "12.7普通弹", "Amount": 10, "Costs": {"Min": 140, "Stable": 140, "Max": 150}}, {"Name": "黑火药", "Amount": 3, "Costs": {"Min": 2166, "Stable": 2184, "Max": 2205}}, {"Name": "特种钢", "Amount": 3, "Costs": {"Min": 255, "Stable": 255, "Max": 255}}], "Costs": {"Min": 2561, "Stable": 2579, "Max": 2610}, "Revenue": {"Min": -210, "Stable": -179, "Max": 29}}, {"Name": "强化战术护甲", "Amount": 1, "Prices": {"Min": 4950, "Stable": 4970, "Max": 4970}, "Materials": [{"Name": "复合战术护甲", "Amount": 1, "Costs": {"Min": 1200, "Stable": 1211, "Max": 1211}}, {"Name": "强化防弹陶瓷", "Amount": 3, "Costs": {"Min": 1791, "Stable": 1791, "Max": 1794}}, {"Name": "漆皮革", "Amount": 2, "Costs": {"Min": 308, "Stable": 310, "Max": 344}}, {"Name": "碳纤维", "Amount": 3, "Costs": {"Min": 1860, "Stable": 1878, "Max": 1905}}], "Costs": {"Min": 5159, "Stable": 5190, "Max": 5254}, "Revenue": {"Min": -304, "Stable": -220, "Max": -189}}, {"Name": "防水布", "Amount": 1, "Prices": {"Min": 696, "Stable": 729, "Max": 781}, "Materials": [{"Name": "橡胶", "Amount": 1, "Costs": {"Min": 100, "Stable": 100, "Max": 122}}, {"Name": "尼龙布", "Amount": 4, "Costs": {"Min": 880, "Stable": 880, "Max": 880}}], "Costs": {"Min": 980, "Stable": 980, "Max": 1002}, "Revenue": {"Min": -306, "Stable": -251, "Max": -199}}, {"Name": "天然树脂", "Amount": 1, "Prices": {"Min": 218, "Stable": 218, "Max": 218}, "Materials": [{"Name": "橡胶", "Amount": 5, "Costs": {"Min": 500, "Stable": 500, "Max": 610}}], "Costs": {"Min": 500, "Stable": 500, "Max": 610}, "Revenue": {"Min": -392, "Stable": -282, "Max": -282}}, {"Name": "麻醉针", "Amount": 1, "Prices": {"Min": 60, "Stable": 60, "Max": 60}, "Materials": [{"Name": "玻璃", "Amount": 2, "Costs": {"Min": 130, "Stable": 136, "Max": 156}}, {"Name": "麻醉剂", "Amount": 4, "Costs": {"Min": 204, "Stable": 212, "Max": 212}}], "Costs": {"Min": 334, "Stable": 348, "Max": 368}, "Revenue": {"Min": -308, "Stable": -288, "Max": -274}}, {"Name": "高级护甲修护", "Amount": 5, "Prices": {"Min": 21000, "Stable": 21000, "Max": 21995}, "Materials": [{"Name": "神盾战术护甲", "Amount": 1, "Costs": {"Min": 20700, "Stable": 21301, "Max": 21301}}], "Costs": {"Min": 20700, "Stable": 21301, "Max": 21301}, "Revenue": {"Min": -301, "Stable": -301, "Max": 1295}}, {"Name": "玻璃纤维", "Amount": 1, "Prices": {"Min": 89, "Stable": 89, "Max": 103}, "Materials": [{"Name": "玻璃", "Amount": 1, "Costs": {"Min": 65, "Stable": 68, "Max": 78}}, {"Name": "塑料", "Amount": 2, "Costs": {"Min": 396, "Stable": 396, "Max": 396}}], "Costs": {"Min": 461, "Stable": 464, "Max": 474}, "Revenue": {"Min": -385, "Stable": -375, "Max": -358}}, {"Name": "5.56空尖弹", "Amount": 20, "Prices": {"Min": 1300, "Stable": 1300, "Max": 1300}, "Materials": [{"Name": "5.56普通弹", "Amount": 20, "Costs": {"Min": 180, "Stable": 180, "Max": 180}}, {"Name": "黑火药", "Amount": 2, "Costs": {"Min": 1444, "Stable": 1456, "Max": 1470}}, {"Name": "特种钢", "Amount": 1, "Costs": {"Min": 85, "Stable": 85, "Max": 85}}], "Costs": {"Min": 1709, "Stable": 1721, "Max": 1735}, "Revenue": {"Min": -435, "Stable": -421, "Max": -409}}, {"Name": "7.62空尖弹", "Amount": 20, "Prices": {"Min": 2100, "Stable": 2100, "Max": 2160}, "Materials": [{"Name": "7.62普通弹", "Amount": 20, "Costs": {"Min": 200, "Stable": 200, "Max": 200}}, {"Name": "黑火药", "Amount": 3, "Costs": {"Min": 2166, "Stable": 2184, "Max": 2205}}, {"Name": "特种钢", "Amount": 3, "Costs": {"Min": 255, "Stable": 255, "Max": 255}}], "Costs": {"Min": 2621, "Stable": 2639, "Max": 2660}, "Revenue": {"Min": -560, "Stable": -539, "Max": -461}}, {"Name": "晶须硅钢", "Amount": 1, "Prices": {"Min": 2195, "Stable": 2278, "Max": 2360}, "Materials": [{"Name": "强化防弹陶瓷", "Amount": 3, "Costs": {"Min": 1791, "Stable": 1791, "Max": 1794}}, {"Name": "玻璃", "Amount": 10, "Costs": {"Min": 650, "Stable": 680, "Max": 780}}, {"Name": "高纯度硫磺", "Amount": 2, "Costs": {"Min": 410, "Stable": 410, "Max": 446}}], "Costs": {"Min": 2851, "Stable": 2881, "Max": 3020}, "Revenue": {"Min": -825, "Stable": -603, "Max": -491}}, {"Name": "铝合金", "Amount": 2, "Prices": {"Min": 398, "Stable": 408, "Max": 464}, "Materials": [{"Name": "硅岩", "Amount": 10, "Costs": {"Min": 500, "Stable": 620, "Max": 640}}, {"Name": "特种钢", "Amount": 5, "Costs": {"Min": 425, "Stable": 425, "Max": 425}}], "Costs": {"Min": 925, "Stable": 1045, "Max": 1065}, "Revenue": {"Min": -667, "Stable": -637, "Max": -461}}, {"Name": "12口径鸟弹", "Amount": 10, "Prices": {"Min": 3500, "Stable": 3500, "Max": 3560}, "Materials": [{"Name": "12口径橡胶弹", "Amount": 10, "Costs": {"Min": 990, "Stable": 990, "Max": 990}}, {"Name": "黑火药", "Amount": 4, "Costs": {"Min": 2888, "Stable": 2912, "Max": 2940}}, {"Name": "特种钢", "Amount": 3, "Costs": {"Min": 255, "Stable": 255, "Max": 255}}], "Costs": {"Min": 4133, "Stable": 4157, "Max": 4185}, "Revenue": {"Min": -685, "Stable": -657, "Max": -573}}, {"Name": "电子芯片", "Amount": 2, "Prices": {"Min": 434, "Stable": 454, "Max": 508}, "Materials": [{"Name": "天然树脂", "Amount": 2, "Costs": {"Min": 436, "Stable": 436, "Max": 436}}, {"Name": "硅岩", "Amount": 5, "Costs": {"Min": 250, "Stable": 310, "Max": 320}}, {"Name": "铝合金", "Amount": 2, "Costs": {"Min": 398, "Stable": 408, "Max": 464}}], "Costs": {"Min": 1084, "Stable": 1154, "Max": 1220}, "Revenue": {"Min": -786, "Stable": -700, "Max": -576}}, {"Name": "燃烧弹", "Amount": 4, "Prices": {"Min": 400, "Stable": 400, "Max": 404}, "Materials": [{"Name": "玻璃", "Amount": 2, "Costs": {"Min": 130, "Stable": 136, "Max": 156}}, {"Name": "酒精", "Amount": 2, "Costs": {"Min": 300, "Stable": 300, "Max": 324}}, {"Name": "棉布", "Amount": 4, "Costs": {"Min": 800, "Stable": 800, "Max": 976}}], "Costs": {"Min": 1230, "Stable": 1236, "Max": 1456}, "Revenue": {"Min": -1056, "Stable": -836, "Max": -826}}, {"Name": "瘴气弹", "Amount": 2, "Prices": {"Min": 220, "Stable": 232, "Max": 260}, "Materials": [{"Name": "烟雾弹", "Amount": 2, "Costs": {"Min": 210, "Stable": 210, "Max": 216}}, {"Name": "菌菇提取液", "Amount": 4, "Costs": {"Min": 180, "Stable": 180, "Max": 180}}, {"Name": "塑料", "Amount": 4, "Costs": {"Min": 792, "Stable": 792, "Max": 792}}], "Costs": {"Min": 1182, "Stable": 1182, "Max": 1188}, "Revenue": {"Min": -968, "Stable": -950, "Max": -922}}, {"Name": "再生药剂", "Amount": 2, "Prices": {"Min": 1200, "Stable": 1224, "Max": 1256}, "Materials": [{"Name": "急救包", "Amount": 2, "Costs": {"Min": 998, "Stable": 1008, "Max": 1050}}, {"Name": "玻璃", "Amount": 4, "Costs": {"Min": 260, "Stable": 272, "Max": 312}}, {"Name": "酒精", "Amount": 6, "Costs": {"Min": 900, "Stable": 900, "Max": 972}}], "Costs": {"Min": 2158, "Stable": 2180, "Max": 2334}, "Revenue": {"Min": -1134, "Stable": -956, "Max": -902}}, {"Name": "尼龙布", "Amount": 1, "Prices": {"Min": 220, "Stable": 220, "Max": 220}, "Materials": [{"Name": "橡胶", "Amount": 1, "Costs": {"Min": 100, "Stable": 100, "Max": 122}}, {"Name": "棉布", "Amount": 6, "Costs": {"Min": 1200, "Stable": 1200, "Max": 1464}}], "Costs": {"Min": 1300, "Stable": 1300, "Max": 1586}, "Revenue": {"Min": -1366, "Stable": -1080, "Max": -1080}}, {"Name": "凯夫拉纤维", "Amount": 1, "Prices": {"Min": 1655, "Stable": 2272, "Max": 2466}, "Materials": [{"Name": "橡胶", "Amount": 6, "Costs": {"Min": 600, "Stable": 600, "Max": 732}}, {"Name": "特种钢", "Amount": 3, "Costs": {"Min": 255, "Stable": 255, "Max": 255}}, {"Name": "碳纤维", "Amount": 4, "Costs": {"Min": 2480, "Stable": 2504, "Max": 2540}}], "Costs": {"Min": 3335, "Stable": 3359, "Max": 3527}, "Revenue": {"Min": -1872, "Stable": -1087, "Max": -869}}, {"Name": "9mm全金属弹", "Amount": 20, "Prices": {"Min": 6960, "Stable": 6960, "Max": 6960}, "Materials": [{"Name": "9mm穿甲弹", "Amount": 20, "Costs": {"Min": 4400, "Stable": 4400, "Max": 4660}}, {"Name": "无烟火药", "Amount": 1, "Costs": {"Min": 240, "Stable": 240, "Max": 256}}, {"Name": "阿马托火药", "Amount": 2, "Costs": {"Min": 1800, "Stable": 1824, "Max": 1942}}, {"Name": "铝合金", "Amount": 5, "Costs": {"Min": 995, "Stable": 1020, "Max": 1160}}, {"Name": "钛合金", "Amount": 1, "Costs": {"Min": 639, "Stable": 639, "Max": 656}}], "Costs": {"Min": 8074, "Stable": 8123, "Max": 8674}, "Revenue": {"Min": -1714, "Stable": -1163, "Max": -1114}}, {"Name": "中级头盔修护", "Amount": 5, "Prices": {"Min": 1000, "Stable": 1000, "Max": 1100}, "Materials": [{"Name": "强化头盔", "Amount": 1, "Costs": {"Min": 2174, "Stable": 2174, "Max": 2174}}], "Costs": {"Min": 2174, "Stable": 2174, "Max": 2174}, "Revenue": {"Min": -1174, "Stable": -1174, "Max": -1074}}, {"Name": "高纯度硫磺", "Amount": 1, "Prices": {"Min": 205, "Stable": 205, "Max": 223}, "Materials": [{"Name": "酒精", "Amount": 2, "Costs": {"Min": 300, "Stable": 300, "Max": 324}}, {"Name": "精制硝石", "Amount": 6, "Costs": {"Min": 1140, "Stable": 1140, "Max": 1206}}], "Costs": {"Min": 1440, "Stable": 1440, "Max": 1530}, "Revenue": {"Min": -1325, "Stable": -1235, "Max": -1217}}, {"Name": "7.62穿甲弹", "Amount": 20, "Prices": {"Min": 3840, "Stable": 4220, "Max": 4280}, "Materials": [{"Name": "7.62空尖弹", "Amount": 20, "Costs": {"Min": 2100, "Stable": 2100, "Max": 2160}}, {"Name": "黑火药", "Amount": 3, "Costs": {"Min": 2166, "Stable": 2184, "Max": 2205}}, {"Name": "无烟火药", "Amount": 3, "Costs": {"Min": 720, "Stable": 720, "Max": 768}}, {"Name": "铝合金", "Amount": 3, "Costs": {"Min": 597, "Stable": 612, "Max": 696}}], "Costs": {"Min": 5583, "Stable": 5616, "Max": 5829}, "Revenue": {"Min": -1989, "Stable": -1396, "Max": -1303}}, {"Name": "漆皮革", "Amount": 1, "Prices": {"Min": 154, "Stable": 155, "Max": 172}, "Materials": [{"Name": "橡胶", "Amount": 1, "Costs": {"Min": 100, "Stable": 100, "Max": 122}}, {"Name": "粘膜革", "Amount": 5, "Costs": {"Min": 1495, "Stable": 1495, "Max": 1495}}], "Costs": {"Min": 1595, "Stable": 1595, "Max": 1617}, "Revenue": {"Min": -1463, "Stable": -1440, "Max": -1423}}, {"Name": "爆破手雷", "Amount": 2, "Prices": {"Min": 390, "Stable": 390, "Max": 396}, "Materials": [{"Name": "黑火药", "Amount": 2, "Costs": {"Min": 1444, "Stable": 1456, "Max": 1470}}, {"Name": "塑料", "Amount": 2, "Costs": {"Min": 396, "Stable": 396, "Max": 396}}], "Costs": {"Min": 1840, "Stable": 1852, "Max": 1866}, "Revenue": {"Min": -1476, "Stable": -1462, "Max": -1444}}, {"Name": "全息瞄具", "Amount": 1, "Prices": {"Min": 779, "Stable": 828, "Max": 828}, "Materials": [{"Name": "钢化镜片", "Amount": 2, "Costs": {"Min": 634, "Stable": 634, "Max": 642}}, {"Name": "天然树脂", "Amount": 2, "Costs": {"Min": 436, "Stable": 436, "Max": 436}}, {"Name": "钛合金", "Amount": 2, "Costs": {"Min": 1278, "Stable": 1278, "Max": 1312}}], "Costs": {"Min": 2348, "Stable": 2348, "Max": 2390}, "Revenue": {"Min": -1611, "Stable": -1520, "Max": -1520}}, {"Name": "过载激素", "Amount": 1, "Prices": {"Min": 853, "Stable": 853, "Max": 856}, "Materials": [{"Name": "强心剂", "Amount": 1, "Costs": {"Min": 1900, "Stable": 1900, "Max": 1948}}, {"Name": "玻璃", "Amount": 4, "Costs": {"Min": 260, "Stable": 272, "Max": 312}}, {"Name": "菌菇提取液", "Amount": 4, "Costs": {"Min": 180, "Stable": 180, "Max": 180}}, {"Name": "高纯度硫磺", "Amount": 1, "Costs": {"Min": 205, "Stable": 205, "Max": 223}}], "Costs": {"Min": 2545, "Stable": 2557, "Max": 2663}, "Revenue": {"Min": -1810, "Stable": -1704, "Max": -1689}}, {"Name": "钛合金", "Amount": 2, "Prices": {"Min": 1278, "Stable": 1278, "Max": 1312}, "Materials": [{"Name": "精制硝石", "Amount": 8, "Costs": {"Min": 1520, "Stable": 1520, "Max": 1608}}, {"Name": "铝合金", "Amount": 8, "Costs": {"Min": 1592, "Stable": 1632, "Max": 1856}}], "Costs": {"Min": 3112, "Stable": 3152, "Max": 3464}, "Revenue": {"Min": -2186, "Stable": -1874, "Max": -1800}}, {"Name": "强化防弹陶瓷", "Amount": 1, "Prices": {"Min": 597, "Stable": 597, "Max": 598}, "Materials": [{"Name": "复合防弹陶瓷", "Amount": 3, "Costs": {"Min": 1200, "Stable": 1200, "Max": 1272}}, {"Name": "玻璃", "Amount": 5, "Costs": {"Min": 325, "Stable": 340, "Max": 390}}, {"Name": "精制硝石", "Amount": 5, "Costs": {"Min": 950, "Stable": 950, "Max": 1005}}], "Costs": {"Min": 2475, "Stable": 2490, "Max": 2667}, "Revenue": {"Min": -2070, "Stable": -1893, "Max": -1877}}, {"Name": "12口径鹿弹", "Amount": 10, "Prices": {"Min": 5880, "Stable": 5880, "Max": 5980}, "Materials": [{"Name": "12口径鸟弹", "Amount": 10, "Costs": {"Min": 3500, "Stable": 3500, "Max": 3560}}, {"Name": "黑火药", "Amount": 4, "Costs": {"Min": 2888, "Stable": 2912, "Max": 2940}}, {"Name": "无烟火药", "Amount": 4, "Costs": {"Min": 960, "Stable": 960, "Max": 1024}}, {"Name": "铝合金", "Amount": 2, "Costs": {"Min": 398, "Stable": 408, "Max": 464}}], "Costs": {"Min": 7746, "Stable": 7780, "Max": 7988}, "Revenue": {"Min": -2108, "Stable": -1900, "Max": -1766}}, {"Name": "中级护甲修护", "Amount": 5, "Prices": {"Min": 2475, "Stable": 2535, "Max": 2720}, "Materials": [{"Name": "强化战术护甲", "Amount": 1, "Costs": {"Min": 4950, "Stable": 4970, "Max": 4970}}], "Costs": {"Min": 4950, "Stable": 4970, "Max": 4970}, "Revenue": {"Min": -2495, "Stable": -2435, "Max": -2230}}, {"Name": "7.62全金属弹", "Amount": 20, "Prices": {"Min": 8460, "Stable": 8460, "Max": 8460}, "Materials": [{"Name": "7.62穿甲弹", "Amount": 20, "Costs": {"Min": 3840, "Stable": 4220, "Max": 4280}}, {"Name": "无烟火药", "Amount": 3, "Costs": {"Min": 720, "Stable": 720, "Max": 768}}, {"Name": "阿马托火药", "Amount": 3, "Costs": {"Min": 2700, "Stable": 2736, "Max": 2913}}, {"Name": "铝合金", "Amount": 7, "Costs": {"Min": 1393, "Stable": 1428, "Max": 1624}}, {"Name": "钛合金", "Amount": 3, "Costs": {"Min": 1917, "Stable": 1917, "Max": 1968}}], "Costs": {"Min": 10570, "Stable": 11021, "Max": 11553}, "Revenue": {"Min": -3093, "Stable": -2561, "Max": -2110}}, {"Name": "强化头盔", "Amount": 1, "Prices": {"Min": 2174, "Stable": 2174, "Max": 2174}, "Materials": [{"Name": "复合头盔", "Amount": 1, "Costs": {"Min": 641, "Stable": 645, "Max": 645}}, {"Name": "强化防弹陶瓷", "Amount": 1, "Costs": {"Min": 597, "Stable": 597, "Max": 598}}, {"Name": "钢化镜片", "Amount": 10, "Costs": {"Min": 3170, "Stable": 3170, "Max": 3210}}, {"Name": "铝合金", "Amount": 1, "Costs": {"Min": 199, "Stable": 204, "Max": 232}}, {"Name": "尼龙布", "Amount": 2, "Costs": {"Min": 440, "Stable": 440, "Max": 440}}], "Costs": {"Min": 5047, "Stable": 5056, "Max": 5125}, "Revenue": {"Min": -2951, "Stable": -2882, "Max": -2873}}, {"Name": "红点瞄具", "Amount": 1, "Prices": {"Min": 1499, "Stable": 1512, "Max": 1512}, "Materials": [{"Name": "钢化镜片", "Amount": 6, "Costs": {"Min": 1902, "Stable": 1902, "Max": 1926}}, {"Name": "天然树脂", "Amount": 6, "Costs": {"Min": 1308, "Stable": 1308, "Max": 1308}}, {"Name": "钛合金", "Amount": 2, "Costs": {"Min": 1278, "Stable": 1278, "Max": 1312}}], "Costs": {"Min": 4488, "Stable": 4488, "Max": 4546}, "Revenue": {"Min": -3047, "Stable": -2976, "Max": -2976}}, {"Name": "战术背包", "Amount": 1, "Prices": {"Min": 578, "Stable": 578, "Max": 578}, "Materials": [{"Name": "双肩背包", "Amount": 1, "Costs": {"Min": 378, "Stable": 378, "Max": 378}}, {"Name": "橡胶", "Amount": 8, "Costs": {"Min": 800, "Stable": 800, "Max": 976}}, {"Name": "尼龙布", "Amount": 4, "Costs": {"Min": 880, "Stable": 880, "Max": 880}}, {"Name": "漆皮革", "Amount": 3, "Costs": {"Min": 462, "Stable": 465, "Max": 516}}, {"Name": "碳纤维", "Amount": 3, "Costs": {"Min": 1860, "Stable": 1878, "Max": 1905}}], "Costs": {"Min": 4380, "Stable": 4401, "Max": 4655}, "Revenue": {"Min": -4077, "Stable": -3823, "Max": -3802}}, {"Name": "8倍镜", "Amount": 1, "Prices": {"Min": 779, "Stable": 817, "Max": 817}, "Materials": [{"Name": "钢化镜片", "Amount": 8, "Costs": {"Min": 2536, "Stable": 2536, "Max": 2568}}, {"Name": "天然树脂", "Amount": 4, "Costs": {"Min": 872, "Stable": 872, "Max": 872}}, {"Name": "钛合金", "Amount": 2, "Costs": {"Min": 1278, "Stable": 1278, "Max": 1312}}], "Costs": {"Min": 4686, "Stable": 4686, "Max": 4752}, "Revenue": {"Min": -3973, "Stable": -3869, "Max": -3869}}, {"Name": "无烟火药", "Amount": 2, "Prices": {"Min": 480, "Stable": 480, "Max": 512}, "Materials": [{"Name": "黑火药", "Amount": 5, "Costs": {"Min": 3610, "Stable": 3640, "Max": 3675}}, {"Name": "精制硝石", "Amount": 5, "Costs": {"Min": 950, "Stable": 950, "Max": 1005}}], "Costs": {"Min": 4560, "Stable": 4590, "Max": 4680}, "Revenue": {"Min": -4200, "Stable": -4110, "Max": -4048}}, {"Name": "4倍镜", "Amount": 1, "Prices": {"Min": 1159, "Stable": 1181, "Max": 1181}, "Materials": [{"Name": "钢化镜片", "Amount": 8, "Costs": {"Min": 2536, "Stable": 2536, "Max": 2568}}, {"Name": "天然树脂", "Amount": 8, "Costs": {"Min": 1744, "Stable": 1744, "Max": 1744}}, {"Name": "铝合金", "Amount": 5, "Costs": {"Min": 995, "Stable": 1020, "Max": 1160}}], "Costs": {"Min": 5275, "Stable": 5300, "Max": 5472}, "Revenue": {"Min": -4313, "Stable": -4119, "Max": -4094}}, {"Name": "12口径箭弹", "Amount": 10, "Prices": {"Min": 9000, "Stable": 9390, "Max": 9570}, "Materials": [{"Name": "12口径鹿弹", "Amount": 10, "Costs": {"Min": 5880, "Stable": 5880, "Max": 5980}}, {"Name": "无烟火药", "Amount": 4, "Costs": {"Min": 960, "Stable": 960, "Max": 1024}}, {"Name": "阿马托火药", "Amount": 4, "Costs": {"Min": 3600, "Stable": 3648, "Max": 3884}}, {"Name": "铝合金", "Amount": 9, "Costs": {"Min": 1791, "Stable": 1836, "Max": 2088}}, {"Name": "钛合金", "Amount": 2, "Costs": {"Min": 1278, "Stable": 1278, "Max": 1312}}], "Costs": {"Min": 13509, "Stable": 13602, "Max": 14288}, "Revenue": {"Min": -5288, "Stable": -4212, "Max": -3939}}, {"Name": "战术短靴", "Amount": 1, "Prices": {"Min": 655, "Stable": 722, "Max": 722}, "Materials": [{"Name": "越野短靴", "Amount": 1, "Costs": {"Min": 398, "Stable": 398, "Max": 398}}, {"Name": "橡胶", "Amount": 2, "Costs": {"Min": 200, "Stable": 200, "Max": 244}}, {"Name": "漆皮革", "Amount": 5, "Costs": {"Min": 770, "Stable": 775, "Max": 860}}, {"Name": "碳纤维", "Amount": 6, "Costs": {"Min": 3720, "Stable": 3756, "Max": 3810}}], "Costs": {"Min": 5088, "Stable": 5129, "Max": 5312}, "Revenue": {"Min": -4657, "Stable": -4407, "Max": -4366}}, {"Name": "全面改装组合", "Amount": 1, "Prices": {"Min": 6299, "Stable": 6372, "Max": 6815}, "Materials": [{"Name": "近身冲突组合", "Amount": 1, "Costs": {"Min": 2772, "Stable": 2872, "Max": 3033}}, {"Name": "狙击大师组合", "Amount": 1, "Costs": {"Min": 2732, "Stable": 2768, "Max": 2860}}, {"Name": "双导轨组合", "Amount": 1, "Costs": {"Min": 2887, "Stable": 2969, "Max": 3450}}, {"Name": "凯夫拉纤维", "Amount": 1, "Costs": {"Min": 1655, "Stable": 2272, "Max": 2466}}], "Costs": {"Min": 10046, "Stable": 10881, "Max": 11809}, "Revenue": {"Min": -5510, "Stable": -4509, "Max": -3231}}, {"Name": "专业背包", "Amount": 1, "Prices": {"Min": 2175, "Stable": 2187, "Max": 2187}, "Materials": [{"Name": "战术背包", "Amount": 1, "Costs": {"Min": 578, "Stable": 578, "Max": 578}}, {"Name": "天然树脂", "Amount": 4, "Costs": {"Min": 872, "Stable": 872, "Max": 872}}, {"Name": "防水布", "Amount": 3, "Costs": {"Min": 2088, "Stable": 2187, "Max": 2343}}, {"Name": "翻毛皮革", "Amount": 1, "Costs": {"Min": 1048, "Stable": 1048, "Max": 1184}}, {"Name": "凯夫拉纤维", "Amount": 1, "Costs": {"Min": 1655, "Stable": 2272, "Max": 2466}}], "Costs": {"Min": 6241, "Stable": 6957, "Max": 7443}, "Revenue": {"Min": -5268, "Stable": -4770, "Max": -4054}}, {"Name": "2倍镜", "Amount": 1, "Prices": {"Min": 324, "Stable": 324, "Max": 324}, "Materials": [{"Name": "钢化镜片", "Amount": 8, "Costs": {"Min": 2536, "Stable": 2536, "Max": 2568}}, {"Name": "天然树脂", "Amount": 8, "Costs": {"Min": 1744, "Stable": 1744, "Max": 1744}}, {"Name": "特种钢", "Amount": 10, "Costs": {"Min": 850, "Stable": 850, "Max": 850}}], "Costs": {"Min": 5130, "Stable": 5130, "Max": 5162}, "Revenue": {"Min": -4838, "Stable": -4806, "Max": -4806}}, {"Name": "改良握把", "Amount": 1, "Prices": {"Min": 530, "Stable": 575, "Max": 575}, "Materials": [{"Name": "通用握把", "Amount": 1, "Costs": {"Min": 299, "Stable": 299, "Max": 299}}, {"Name": "橡胶", "Amount": 8, "Costs": {"Min": 800, "Stable": 800, "Max": 976}}, {"Name": "碳纤维", "Amount": 9, "Costs": {"Min": 5580, "Stable": 5634, "Max": 5715}}], "Costs": {"Min": 6679, "Stable": 6733, "Max": 6990}, "Revenue": {"Min": -6460, "Stable": -6158, "Max": -6104}}, {"Name": "精准枪托", "Amount": 1, "Prices": {"Min": 707, "Stable": 728, "Max": 728}, "Materials": [{"Name": "通用枪托", "Amount": 1, "Costs": {"Min": 649, "Stable": 649, "Max": 649}}, {"Name": "橡胶", "Amount": 8, "Costs": {"Min": 800, "Stable": 800, "Max": 976}}, {"Name": "碳纤维", "Amount": 9, "Costs": {"Min": 5580, "Stable": 5634, "Max": 5715}}], "Costs": {"Min": 7029, "Stable": 7083, "Max": 7340}, "Revenue": {"Min": -6633, "Stable": -6355, "Max": -6301}}, {"Name": "4倍侧瞄具", "Amount": 1, "Prices": {"Min": 1201, "Stable": 1201, "Max": 1201}, "Materials": [{"Name": "红点瞄具", "Amount": 1, "Costs": {"Min": 1499, "Stable": 1512, "Max": 1512}}, {"Name": "4倍镜", "Amount": 1, "Costs": {"Min": 1159, "Stable": 1181, "Max": 1181}}, {"Name": "天然树脂", "Amount": 2, "Costs": {"Min": 436, "Stable": 436, "Max": 436}}, {"Name": "防化涂层布", "Amount": 1, "Costs": {"Min": 2500, "Stable": 2500, "Max": 2678}}, {"Name": "凯夫拉纤维", "Amount": 1, "Costs": {"Min": 1655, "Stable": 2272, "Max": 2466}}], "Costs": {"Min": 7249, "Stable": 7901, "Max": 8273}, "Revenue": {"Min": -7072, "Stable": -6700, "Max": -6048}}, {"Name": "复合头盔", "Amount": 1, "Prices": {"Min": 641, "Stable": 645, "Max": 645}, "Materials": [{"Name": "战术面罩", "Amount": 1, "Costs": {"Min": 762, "Stable": 777, "Max": 777}}, {"Name": "复合防弹陶瓷", "Amount": 6, "Costs": {"Min": 2400, "Stable": 2400, "Max": 2544}}, {"Name": "钢化镜片", "Amount": 10, "Costs": {"Min": 3170, "Stable": 3170, "Max": 3210}}, {"Name": "特种钢", "Amount": 6, "Costs": {"Min": 510, "Stable": 510, "Max": 510}}, {"Name": "棉布", "Amount": 6, "Costs": {"Min": 1200, "Stable": 1200, "Max": 1464}}], "Costs": {"Min": 8042, "Stable": 8057, "Max": 8505}, "Revenue": {"Min": -7864, "Stable": -7412, "Max": -7397}}, {"Name": "复合战术护甲", "Amount": 1, "Prices": {"Min": 1200, "Stable": 1211, "Max": 1211}, "Materials": [{"Name": "特种战术背心", "Amount": 1, "Costs": {"Min": 949, "Stable": 973, "Max": 973}}, {"Name": "复合防弹陶瓷", "Amount": 10, "Costs": {"Min": 4000, "Stable": 4000, "Max": 4240}}, {"Name": "粘膜革", "Amount": 12, "Costs": {"Min": 3588, "Stable": 3588, "Max": 3588}}, {"Name": "玻璃纤维", "Amount": 12, "Costs": {"Min": 1068, "Stable": 1068, "Max": 1236}}], "Costs": {"Min": 9605, "Stable": 9629, "Max": 10037}, "Revenue": {"Min": -8837, "Stable": -8418, "Max": -8394}}, {"Name": "专家战靴", "Amount": 1, "Prices": {"Min": 1928, "Stable": 1928, "Max": 1928}, "Materials": [{"Name": "战术短靴", "Amount": 1, "Costs": {"Min": 655, "Stable": 722, "Max": 722}}, {"Name": "天然树脂", "Amount": 5, "Costs": {"Min": 1090, "Stable": 1090, "Max": 1090}}, {"Name": "翻毛皮革", "Amount": 2, "Costs": {"Min": 2096, "Stable": 2096, "Max": 2368}}, {"Name": "凯夫拉纤维", "Amount": 3, "Costs": {"Min": 4965, "Stable": 6816, "Max": 7398}}], "Costs": {"Min": 8806, "Stable": 10724, "Max": 11578}, "Revenue": {"Min": -9650, "Stable": -8796, "Max": -6878}}, {"Name": "8倍侧瞄具", "Amount": 1, "Prices": {"Min": 1505, "Stable": 1505, "Max": 1505}, "Materials": [{"Name": "红点瞄具", "Amount": 1, "Costs": {"Min": 1499, "Stable": 1512, "Max": 1512}}, {"Name": "8倍镜", "Amount": 1, "Costs": {"Min": 779, "Stable": 817, "Max": 817}}, {"Name": "天然树脂", "Amount": 3, "Costs": {"Min": 654, "Stable": 654, "Max": 654}}, {"Name": "铝合金", "Amount": 2, "Costs": {"Min": 398, "Stable": 408, "Max": 464}}, {"Name": "定型人造革", "Amount": 1, "Costs": {"Min": 2500, "Stable": 2536, "Max": 2587}}, {"Name": "凯夫拉纤维", "Amount": 2, "Costs": {"Min": 3310, "Stable": 4544, "Max": 4932}}], "Costs": {"Min": 9140, "Stable": 10471, "Max": 10966}, "Revenue": {"Min": -9461, "Stable": -8966, "Max": -7635}}]
+[
+    {
+        "Name": "高级头盔修护1",
+        "Amount": 5,
+        "Prices": {
+            "Min": 13225,
+            "Stable": 13255,
+            "Max": 14060
+        },
+        "Materials": [
+            {
+                "Name": "神盾头盔",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 9998,
+                    "Stable": 9999,
+                    "Max": 9999
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9998,
+            "Stable": 9999,
+            "Max": 9999
+        },
+        "Revenue": {
+            "Min": 3226,
+            "Stable": 3256,
+            "Max": 4062
+        }
+    },
+    {
+        "Name": "12.7全金属弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 19300,
+            "Stable": 19300,
+            "Max": 19380
+        },
+        "Materials": [
+            {
+                "Name": "12.7穿甲弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 7200,
+                    "Stable": 7360,
+                    "Max": 7490
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2888,
+                    "Stable": 2912,
+                    "Max": 2940
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "阿马托火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2700,
+                    "Stable": 2736,
+                    "Max": 2913
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1592,
+                    "Stable": 1632,
+                    "Max": 1856
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1278,
+                    "Stable": 1278,
+                    "Max": 1312
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 16138,
+            "Stable": 16398,
+            "Max": 17023
+        },
+        "Revenue": {
+            "Min": 2277,
+            "Stable": 2902,
+            "Max": 3242
+        }
+    },
+    {
+        "Name": "12.7穿甲弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 7200,
+            "Stable": 7360,
+            "Max": 7490
+        },
+        "Materials": [
+            {
+                "Name": "12.7空尖弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 2400,
+                    "Stable": 2400,
+                    "Max": 2590
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2166,
+                    "Stable": 2184,
+                    "Max": 2205
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 720,
+                    "Stable": 720,
+                    "Max": 768
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 408,
+                    "Max": 464
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5684,
+            "Stable": 5712,
+            "Max": 6027
+        },
+        "Revenue": {
+            "Min": 1173,
+            "Stable": 1648,
+            "Max": 1806
+        }
+    },
+    {
+        "Name": "5.56全金属弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 10200,
+            "Stable": 10200,
+            "Max": 10300
+        },
+        "Materials": [
+            {
+                "Name": "5.56穿甲弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 4200,
+                    "Stable": 4200,
+                    "Max": 4260
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "阿马托火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1800,
+                    "Stable": 1824,
+                    "Max": 1942
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 7,
+                "Costs": {
+                    "Min": 1393,
+                    "Stable": 1428,
+                    "Max": 1624
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 639,
+                    "Stable": 639,
+                    "Max": 656
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 8512,
+            "Stable": 8571,
+            "Max": 8994
+        },
+        "Revenue": {
+            "Min": 1206,
+            "Stable": 1629,
+            "Max": 1788
+        }
+    },
+    {
+        "Name": "双导轨组合",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2887,
+            "Stable": 2969,
+            "Max": 3450
+        },
+        "Materials": [
+            {
+                "Name": "瞄具加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 599,
+                    "Stable": 619,
+                    "Max": 688
+                }
+            },
+            {
+                "Name": "握把加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 625,
+                    "Stable": 720,
+                    "Max": 749
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 620,
+                    "Stable": 626,
+                    "Max": 635
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1844,
+            "Stable": 1965,
+            "Max": 2072
+        },
+        "Revenue": {
+            "Min": 815,
+            "Stable": 1004,
+            "Max": 1606
+        }
+    },
+    {
+        "Name": "5.56穿甲弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 4200,
+            "Stable": 4200,
+            "Max": 4260
+        },
+        "Materials": [
+            {
+                "Name": "5.56空尖弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 1300,
+                    "Stable": 1300,
+                    "Max": 1300
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1444,
+                    "Stable": 1456,
+                    "Max": 1470
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 199,
+                    "Stable": 204,
+                    "Max": 232
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3423,
+            "Stable": 3440,
+            "Max": 3514
+        },
+        "Revenue": {
+            "Min": 686,
+            "Stable": 760,
+            "Max": 837
+        }
+    },
+    {
+        "Name": "9mm穿甲弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 4400,
+            "Stable": 4400,
+            "Max": 4660
+        },
+        "Materials": [
+            {
+                "Name": "9mm空尖弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 2280,
+                    "Stable": 2280,
+                    "Max": 2280
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 722,
+                    "Stable": 728,
+                    "Max": 735
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 199,
+                    "Stable": 204,
+                    "Max": 232
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3681,
+            "Stable": 3692,
+            "Max": 3759
+        },
+        "Revenue": {
+            "Min": 641,
+            "Stable": 708,
+            "Max": 979
+        }
+    },
+    {
+        "Name": "近身冲突组合",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2772,
+            "Stable": 2872,
+            "Max": 3033
+        },
+        "Materials": [
+            {
+                "Name": "握把加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 625,
+                    "Stable": 720,
+                    "Max": 749
+                }
+            },
+            {
+                "Name": "枪口加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 632,
+                    "Stable": 877,
+                    "Max": 877
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 620,
+                    "Stable": 626,
+                    "Max": 635
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1877,
+            "Stable": 2223,
+            "Max": 2261
+        },
+        "Revenue": {
+            "Min": 511,
+            "Stable": 649,
+            "Max": 1156
+        }
+    },
+    {
+        "Name": "狙击大师组合",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2732,
+            "Stable": 2768,
+            "Max": 2860
+        },
+        "Materials": [
+            {
+                "Name": "瞄具加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 599,
+                    "Stable": 619,
+                    "Max": 688
+                }
+            },
+            {
+                "Name": "枪口加装",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 632,
+                    "Stable": 877,
+                    "Max": 877
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 620,
+                    "Stable": 626,
+                    "Max": 635
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1851,
+            "Stable": 2122,
+            "Max": 2200
+        },
+        "Revenue": {
+            "Min": 532,
+            "Stable": 646,
+            "Max": 1009
+        }
+    },
+    {
+        "Name": "绿漆",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2990,
+            "Stable": 2990,
+            "Max": 2993
+        },
+        "Materials": [
+            {
+                "Name": "黄漆",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1399,
+                    "Stable": 1415,
+                    "Max": 1542
+                }
+            },
+            {
+                "Name": "青漆",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 984,
+                    "Stable": 984,
+                    "Max": 1028
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2383,
+            "Stable": 2399,
+            "Max": 2570
+        },
+        "Revenue": {
+            "Min": 420,
+            "Stable": 591,
+            "Max": 610
+        }
+    },
+    {
+        "Name": "初级护甲修护",
+        "Amount": 5,
+        "Prices": {
+            "Min": 1745,
+            "Stable": 1745,
+            "Max": 1770
+        },
+        "Materials": [
+            {
+                "Name": "复合战术护甲",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1211,
+                    "Max": 1211
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1200,
+            "Stable": 1211,
+            "Max": 1211
+        },
+        "Revenue": {
+            "Min": 534,
+            "Stable": 534,
+            "Max": 570
+        }
+    },
+    {
+        "Name": "急救包",
+        "Amount": 5,
+        "Prices": {
+            "Min": 2495,
+            "Stable": 2520,
+            "Max": 2625
+        },
+        "Materials": [
+            {
+                "Name": "绷带",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 250,
+                    "Stable": 250,
+                    "Max": 250
+                }
+            },
+            {
+                "Name": "酒精",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 750,
+                    "Stable": 750,
+                    "Max": 810
+                }
+            },
+            {
+                "Name": "棉布",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 1000,
+                    "Stable": 1000,
+                    "Max": 1220
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2000,
+            "Stable": 2000,
+            "Max": 2280
+        },
+        "Revenue": {
+            "Min": 215,
+            "Stable": 520,
+            "Max": 625
+        }
+    },
+    {
+        "Name": "神盾战术护甲",
+        "Amount": 1,
+        "Prices": {
+            "Min": 20700,
+            "Stable": 21301,
+            "Max": 21301
+        },
+        "Materials": [
+            {
+                "Name": "强化战术护甲",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 4950,
+                    "Stable": 4970,
+                    "Max": 4970
+                }
+            },
+            {
+                "Name": "晶须硅钢",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 4390,
+                    "Stable": 4556,
+                    "Max": 4720
+                }
+            },
+            {
+                "Name": "翻毛皮革",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 2096,
+                    "Stable": 2096,
+                    "Max": 2368
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2480,
+                    "Stable": 2504,
+                    "Max": 2540
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 4965,
+                    "Stable": 6816,
+                    "Max": 7398
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 18881,
+            "Stable": 20942,
+            "Max": 21996
+        },
+        "Revenue": {
+            "Min": -1296,
+            "Stable": 359,
+            "Max": 2420
+        }
+    },
+    {
+        "Name": "翻毛皮革",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1048,
+            "Stable": 1048,
+            "Max": 1184
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 100,
+                    "Stable": 100,
+                    "Max": 122
+                }
+            },
+            {
+                "Name": "漆皮革",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 616,
+                    "Stable": 620,
+                    "Max": 688
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 716,
+            "Stable": 720,
+            "Max": 810
+        },
+        "Revenue": {
+            "Min": 238,
+            "Stable": 328,
+            "Max": 468
+        }
+    },
+    {
+        "Name": "初级头盔修护",
+        "Amount": 5,
+        "Prices": {
+            "Min": 945,
+            "Stable": 945,
+            "Max": 980
+        },
+        "Materials": [
+            {
+                "Name": "复合头盔",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 641,
+                    "Stable": 645,
+                    "Max": 645
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 641,
+            "Stable": 645,
+            "Max": 645
+        },
+        "Revenue": {
+            "Min": 300,
+            "Stable": 300,
+            "Max": 339
+        }
+    },
+    {
+        "Name": "神盾头盔",
+        "Amount": 1,
+        "Prices": {
+            "Min": 9998,
+            "Stable": 9999,
+            "Max": 9999
+        },
+        "Materials": [
+            {
+                "Name": "强化头盔",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2174,
+                    "Stable": 2174,
+                    "Max": 2174
+                }
+            },
+            {
+                "Name": "晶须硅钢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2195,
+                    "Stable": 2278,
+                    "Max": 2360
+                }
+            },
+            {
+                "Name": "钢化镜片",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 3170,
+                    "Stable": 3170,
+                    "Max": 3210
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 639,
+                    "Stable": 639,
+                    "Max": 656
+                }
+            },
+            {
+                "Name": "防水布",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1392,
+                    "Stable": 1458,
+                    "Max": 1562
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9570,
+            "Stable": 9719,
+            "Max": 9962
+        },
+        "Revenue": {
+            "Min": 36,
+            "Stable": 280,
+            "Max": 429
+        }
+    },
+    {
+        "Name": "9mm空尖弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 2280,
+            "Stable": 2280,
+            "Max": 2280
+        },
+        "Materials": [
+            {
+                "Name": "9mm普通弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 480
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1444,
+                    "Stable": 1456,
+                    "Max": 1470
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 85,
+                    "Stable": 85,
+                    "Max": 85
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2009,
+            "Stable": 2021,
+            "Max": 2035
+        },
+        "Revenue": {
+            "Min": 245,
+            "Stable": 259,
+            "Max": 271
+        }
+    },
+    {
+        "Name": "投掷雷达",
+        "Amount": 2,
+        "Prices": {
+            "Min": 2840,
+            "Stable": 2840,
+            "Max": 3088
+        },
+        "Materials": [
+            {
+                "Name": "电子芯片",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 217,
+                    "Stable": 227,
+                    "Max": 254
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 408,
+                    "Max": 464
+                }
+            },
+            {
+                "Name": "塑料",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1980,
+                    "Stable": 1980,
+                    "Max": 1980
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2595,
+            "Stable": 2615,
+            "Max": 2698
+        },
+        "Revenue": {
+            "Min": 142,
+            "Stable": 225,
+            "Max": 493
+        }
+    },
+    {
+        "Name": "碳纤维",
+        "Amount": 1,
+        "Prices": {
+            "Min": 620,
+            "Stable": 626,
+            "Max": 635
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 100,
+                    "Stable": 100,
+                    "Max": 122
+                }
+            },
+            {
+                "Name": "玻璃纤维",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 356,
+                    "Stable": 356,
+                    "Max": 412
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 456,
+            "Stable": 456,
+            "Max": 534
+        },
+        "Revenue": {
+            "Min": 86,
+            "Stable": 170,
+            "Max": 179
+        }
+    },
+    {
+        "Name": "钢化镜片",
+        "Amount": 2,
+        "Prices": {
+            "Min": 634,
+            "Stable": 634,
+            "Max": 642
+        },
+        "Materials": [
+            {
+                "Name": "玻璃",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 390,
+                    "Stable": 408,
+                    "Max": 468
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 85,
+                    "Stable": 85,
+                    "Max": 85
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 475,
+            "Stable": 493,
+            "Max": 553
+        },
+        "Revenue": {
+            "Min": 81,
+            "Stable": 141,
+            "Max": 167
+        }
+    },
+    {
+        "Name": "止痛药",
+        "Amount": 2,
+        "Prices": {
+            "Min": 204,
+            "Stable": 204,
+            "Max": 204
+        },
+        "Materials": [
+            {
+                "Name": "麻醉剂",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 153,
+                    "Stable": 159,
+                    "Max": 159
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 153,
+            "Stable": 159,
+            "Max": 159
+        },
+        "Revenue": {
+            "Min": 45,
+            "Stable": 45,
+            "Max": 51
+        }
+    },
+    {
+        "Name": "阿马托火药",
+        "Amount": 1,
+        "Prices": {
+            "Min": 900,
+            "Stable": 912,
+            "Max": 971
+        },
+        "Materials": [
+            {
+                "Name": "无烟火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 480,
+                    "Stable": 480,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "高纯度硫磺",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 410,
+                    "Stable": 410,
+                    "Max": 446
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 890,
+            "Stable": 890,
+            "Max": 958
+        },
+        "Revenue": {
+            "Min": -58,
+            "Stable": 22,
+            "Max": 81
+        }
+    },
+    {
+        "Name": "复合防弹陶瓷",
+        "Amount": 1,
+        "Prices": {
+            "Min": 400,
+            "Stable": 400,
+            "Max": 424
+        },
+        "Materials": [
+            {
+                "Name": "防弹陶瓷",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 244,
+                    "Stable": 256,
+                    "Max": 280
+                }
+            },
+            {
+                "Name": "玻璃",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 65,
+                    "Stable": 68,
+                    "Max": 78
+                }
+            },
+            {
+                "Name": "硅岩",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 50,
+                    "Stable": 62,
+                    "Max": 64
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 359,
+            "Stable": 386,
+            "Max": 422
+        },
+        "Revenue": {
+            "Min": -22,
+            "Stable": 14,
+            "Max": 65
+        }
+    },
+    {
+        "Name": "精制硝石",
+        "Amount": 1,
+        "Prices": {
+            "Min": 190,
+            "Stable": 190,
+            "Max": 201
+        },
+        "Materials": [
+            {
+                "Name": "硅岩",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 150,
+                    "Stable": 186,
+                    "Max": 192
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 150,
+            "Stable": 186,
+            "Max": 192
+        },
+        "Revenue": {
+            "Min": -2,
+            "Stable": 4,
+            "Max": 51
+        }
+    },
+    {
+        "Name": "12.7空尖弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 2400,
+            "Stable": 2400,
+            "Max": 2590
+        },
+        "Materials": [
+            {
+                "Name": "12.7普通弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 140,
+                    "Stable": 140,
+                    "Max": 150
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2166,
+                    "Stable": 2184,
+                    "Max": 2205
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 255,
+                    "Stable": 255,
+                    "Max": 255
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2561,
+            "Stable": 2579,
+            "Max": 2610
+        },
+        "Revenue": {
+            "Min": -210,
+            "Stable": -179,
+            "Max": 29
+        }
+    },
+    {
+        "Name": "强化战术护甲",
+        "Amount": 1,
+        "Prices": {
+            "Min": 4950,
+            "Stable": 4970,
+            "Max": 4970
+        },
+        "Materials": [
+            {
+                "Name": "复合战术护甲",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1211,
+                    "Max": 1211
+                }
+            },
+            {
+                "Name": "强化防弹陶瓷",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1791,
+                    "Stable": 1791,
+                    "Max": 1794
+                }
+            },
+            {
+                "Name": "漆皮革",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 308,
+                    "Stable": 310,
+                    "Max": 344
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1860,
+                    "Stable": 1878,
+                    "Max": 1905
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5159,
+            "Stable": 5190,
+            "Max": 5254
+        },
+        "Revenue": {
+            "Min": -304,
+            "Stable": -220,
+            "Max": -189
+        }
+    },
+    {
+        "Name": "防水布",
+        "Amount": 1,
+        "Prices": {
+            "Min": 696,
+            "Stable": 729,
+            "Max": 781
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 100,
+                    "Stable": 100,
+                    "Max": 122
+                }
+            },
+            {
+                "Name": "尼龙布",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 880,
+                    "Stable": 880,
+                    "Max": 880
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 980,
+            "Stable": 980,
+            "Max": 1002
+        },
+        "Revenue": {
+            "Min": -306,
+            "Stable": -251,
+            "Max": -199
+        }
+    },
+    {
+        "Name": "天然树脂",
+        "Amount": 1,
+        "Prices": {
+            "Min": 218,
+            "Stable": 218,
+            "Max": 218
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 500,
+                    "Stable": 500,
+                    "Max": 610
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 500,
+            "Stable": 500,
+            "Max": 610
+        },
+        "Revenue": {
+            "Min": -392,
+            "Stable": -282,
+            "Max": -282
+        }
+    },
+    {
+        "Name": "麻醉针",
+        "Amount": 1,
+        "Prices": {
+            "Min": 60,
+            "Stable": 60,
+            "Max": 60
+        },
+        "Materials": [
+            {
+                "Name": "玻璃",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 130,
+                    "Stable": 136,
+                    "Max": 156
+                }
+            },
+            {
+                "Name": "麻醉剂",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 204,
+                    "Stable": 212,
+                    "Max": 212
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 334,
+            "Stable": 348,
+            "Max": 368
+        },
+        "Revenue": {
+            "Min": -308,
+            "Stable": -288,
+            "Max": -274
+        }
+    },
+    {
+        "Name": "高级护甲修护",
+        "Amount": 5,
+        "Prices": {
+            "Min": 21000,
+            "Stable": 21000,
+            "Max": 21995
+        },
+        "Materials": [
+            {
+                "Name": "神盾战术护甲",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 20700,
+                    "Stable": 21301,
+                    "Max": 21301
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 20700,
+            "Stable": 21301,
+            "Max": 21301
+        },
+        "Revenue": {
+            "Min": -301,
+            "Stable": -301,
+            "Max": 1295
+        }
+    },
+    {
+        "Name": "玻璃纤维",
+        "Amount": 1,
+        "Prices": {
+            "Min": 89,
+            "Stable": 89,
+            "Max": 103
+        },
+        "Materials": [
+            {
+                "Name": "玻璃",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 65,
+                    "Stable": 68,
+                    "Max": 78
+                }
+            },
+            {
+                "Name": "塑料",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 396,
+                    "Stable": 396,
+                    "Max": 396
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 461,
+            "Stable": 464,
+            "Max": 474
+        },
+        "Revenue": {
+            "Min": -385,
+            "Stable": -375,
+            "Max": -358
+        }
+    },
+    {
+        "Name": "5.56空尖弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 1300,
+            "Stable": 1300,
+            "Max": 1300
+        },
+        "Materials": [
+            {
+                "Name": "5.56普通弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 180,
+                    "Stable": 180,
+                    "Max": 180
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1444,
+                    "Stable": 1456,
+                    "Max": 1470
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 85,
+                    "Stable": 85,
+                    "Max": 85
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1709,
+            "Stable": 1721,
+            "Max": 1735
+        },
+        "Revenue": {
+            "Min": -435,
+            "Stable": -421,
+            "Max": -409
+        }
+    },
+    {
+        "Name": "7.62空尖弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 2100,
+            "Stable": 2100,
+            "Max": 2160
+        },
+        "Materials": [
+            {
+                "Name": "7.62普通弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 200,
+                    "Stable": 200,
+                    "Max": 200
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2166,
+                    "Stable": 2184,
+                    "Max": 2205
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 255,
+                    "Stable": 255,
+                    "Max": 255
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2621,
+            "Stable": 2639,
+            "Max": 2660
+        },
+        "Revenue": {
+            "Min": -560,
+            "Stable": -539,
+            "Max": -461
+        }
+    },
+    {
+        "Name": "晶须硅钢",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2195,
+            "Stable": 2278,
+            "Max": 2360
+        },
+        "Materials": [
+            {
+                "Name": "强化防弹陶瓷",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1791,
+                    "Stable": 1791,
+                    "Max": 1794
+                }
+            },
+            {
+                "Name": "玻璃",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 650,
+                    "Stable": 680,
+                    "Max": 780
+                }
+            },
+            {
+                "Name": "高纯度硫磺",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 410,
+                    "Stable": 410,
+                    "Max": 446
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2851,
+            "Stable": 2881,
+            "Max": 3020
+        },
+        "Revenue": {
+            "Min": -825,
+            "Stable": -603,
+            "Max": -491
+        }
+    },
+    {
+        "Name": "铝合金",
+        "Amount": 2,
+        "Prices": {
+            "Min": 398,
+            "Stable": 408,
+            "Max": 464
+        },
+        "Materials": [
+            {
+                "Name": "硅岩",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 500,
+                    "Stable": 620,
+                    "Max": 640
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 425,
+                    "Stable": 425,
+                    "Max": 425
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 925,
+            "Stable": 1045,
+            "Max": 1065
+        },
+        "Revenue": {
+            "Min": -667,
+            "Stable": -637,
+            "Max": -461
+        }
+    },
+    {
+        "Name": "12口径鸟弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 3500,
+            "Stable": 3500,
+            "Max": 3560
+        },
+        "Materials": [
+            {
+                "Name": "12口径橡胶弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 990,
+                    "Stable": 990,
+                    "Max": 990
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2888,
+                    "Stable": 2912,
+                    "Max": 2940
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 255,
+                    "Stable": 255,
+                    "Max": 255
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4133,
+            "Stable": 4157,
+            "Max": 4185
+        },
+        "Revenue": {
+            "Min": -685,
+            "Stable": -657,
+            "Max": -573
+        }
+    },
+    {
+        "Name": "电子芯片",
+        "Amount": 2,
+        "Prices": {
+            "Min": 434,
+            "Stable": 454,
+            "Max": 508
+        },
+        "Materials": [
+            {
+                "Name": "天然树脂",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 436,
+                    "Stable": 436,
+                    "Max": 436
+                }
+            },
+            {
+                "Name": "硅岩",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 250,
+                    "Stable": 310,
+                    "Max": 320
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 408,
+                    "Max": 464
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1084,
+            "Stable": 1154,
+            "Max": 1220
+        },
+        "Revenue": {
+            "Min": -786,
+            "Stable": -700,
+            "Max": -576
+        }
+    },
+    {
+        "Name": "燃烧弹",
+        "Amount": 4,
+        "Prices": {
+            "Min": 400,
+            "Stable": 400,
+            "Max": 404
+        },
+        "Materials": [
+            {
+                "Name": "玻璃",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 130,
+                    "Stable": 136,
+                    "Max": 156
+                }
+            },
+            {
+                "Name": "酒精",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 300,
+                    "Stable": 300,
+                    "Max": 324
+                }
+            },
+            {
+                "Name": "棉布",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 800,
+                    "Stable": 800,
+                    "Max": 976
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1230,
+            "Stable": 1236,
+            "Max": 1456
+        },
+        "Revenue": {
+            "Min": -1056,
+            "Stable": -836,
+            "Max": -826
+        }
+    },
+    {
+        "Name": "瘴气弹",
+        "Amount": 2,
+        "Prices": {
+            "Min": 220,
+            "Stable": 232,
+            "Max": 260
+        },
+        "Materials": [
+            {
+                "Name": "烟雾弹",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 210,
+                    "Stable": 210,
+                    "Max": 216
+                }
+            },
+            {
+                "Name": "菌菇提取液",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 180,
+                    "Stable": 180,
+                    "Max": 180
+                }
+            },
+            {
+                "Name": "塑料",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 792,
+                    "Stable": 792,
+                    "Max": 792
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1182,
+            "Stable": 1182,
+            "Max": 1188
+        },
+        "Revenue": {
+            "Min": -968,
+            "Stable": -950,
+            "Max": -922
+        }
+    },
+    {
+        "Name": "再生药剂",
+        "Amount": 2,
+        "Prices": {
+            "Min": 1200,
+            "Stable": 1224,
+            "Max": 1256
+        },
+        "Materials": [
+            {
+                "Name": "急救包",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 998,
+                    "Stable": 1008,
+                    "Max": 1050
+                }
+            },
+            {
+                "Name": "玻璃",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 260,
+                    "Stable": 272,
+                    "Max": 312
+                }
+            },
+            {
+                "Name": "酒精",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 900,
+                    "Stable": 900,
+                    "Max": 972
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2158,
+            "Stable": 2180,
+            "Max": 2334
+        },
+        "Revenue": {
+            "Min": -1134,
+            "Stable": -956,
+            "Max": -902
+        }
+    },
+    {
+        "Name": "尼龙布",
+        "Amount": 1,
+        "Prices": {
+            "Min": 220,
+            "Stable": 220,
+            "Max": 220
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 100,
+                    "Stable": 100,
+                    "Max": 122
+                }
+            },
+            {
+                "Name": "棉布",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1200,
+                    "Max": 1464
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1300,
+            "Stable": 1300,
+            "Max": 1586
+        },
+        "Revenue": {
+            "Min": -1366,
+            "Stable": -1080,
+            "Max": -1080
+        }
+    },
+    {
+        "Name": "凯夫拉纤维",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1655,
+            "Stable": 2272,
+            "Max": 2466
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 600,
+                    "Stable": 600,
+                    "Max": 732
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 255,
+                    "Stable": 255,
+                    "Max": 255
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2480,
+                    "Stable": 2504,
+                    "Max": 2540
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3335,
+            "Stable": 3359,
+            "Max": 3527
+        },
+        "Revenue": {
+            "Min": -1872,
+            "Stable": -1087,
+            "Max": -869
+        }
+    },
+    {
+        "Name": "9mm全金属弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 6960,
+            "Stable": 6960,
+            "Max": 6960
+        },
+        "Materials": [
+            {
+                "Name": "9mm穿甲弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 4400,
+                    "Stable": 4400,
+                    "Max": 4660
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 240,
+                    "Stable": 240,
+                    "Max": 256
+                }
+            },
+            {
+                "Name": "阿马托火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1800,
+                    "Stable": 1824,
+                    "Max": 1942
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 995,
+                    "Stable": 1020,
+                    "Max": 1160
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 639,
+                    "Stable": 639,
+                    "Max": 656
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 8074,
+            "Stable": 8123,
+            "Max": 8674
+        },
+        "Revenue": {
+            "Min": -1714,
+            "Stable": -1163,
+            "Max": -1114
+        }
+    },
+    {
+        "Name": "中级头盔修护",
+        "Amount": 5,
+        "Prices": {
+            "Min": 1000,
+            "Stable": 1000,
+            "Max": 1100
+        },
+        "Materials": [
+            {
+                "Name": "强化头盔",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2174,
+                    "Stable": 2174,
+                    "Max": 2174
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2174,
+            "Stable": 2174,
+            "Max": 2174
+        },
+        "Revenue": {
+            "Min": -1174,
+            "Stable": -1174,
+            "Max": -1074
+        }
+    },
+    {
+        "Name": "高纯度硫磺",
+        "Amount": 1,
+        "Prices": {
+            "Min": 205,
+            "Stable": 205,
+            "Max": 223
+        },
+        "Materials": [
+            {
+                "Name": "酒精",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 300,
+                    "Stable": 300,
+                    "Max": 324
+                }
+            },
+            {
+                "Name": "精制硝石",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1140,
+                    "Stable": 1140,
+                    "Max": 1206
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1440,
+            "Stable": 1440,
+            "Max": 1530
+        },
+        "Revenue": {
+            "Min": -1325,
+            "Stable": -1235,
+            "Max": -1217
+        }
+    },
+    {
+        "Name": "7.62穿甲弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 3840,
+            "Stable": 4220,
+            "Max": 4280
+        },
+        "Materials": [
+            {
+                "Name": "7.62空尖弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 2100,
+                    "Stable": 2100,
+                    "Max": 2160
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2166,
+                    "Stable": 2184,
+                    "Max": 2205
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 720,
+                    "Stable": 720,
+                    "Max": 768
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 597,
+                    "Stable": 612,
+                    "Max": 696
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5583,
+            "Stable": 5616,
+            "Max": 5829
+        },
+        "Revenue": {
+            "Min": -1989,
+            "Stable": -1396,
+            "Max": -1303
+        }
+    },
+    {
+        "Name": "漆皮革",
+        "Amount": 1,
+        "Prices": {
+            "Min": 154,
+            "Stable": 155,
+            "Max": 172
+        },
+        "Materials": [
+            {
+                "Name": "橡胶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 100,
+                    "Stable": 100,
+                    "Max": 122
+                }
+            },
+            {
+                "Name": "粘膜革",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 1495,
+                    "Stable": 1495,
+                    "Max": 1495
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1595,
+            "Stable": 1595,
+            "Max": 1617
+        },
+        "Revenue": {
+            "Min": -1463,
+            "Stable": -1440,
+            "Max": -1423
+        }
+    },
+    {
+        "Name": "爆破手雷",
+        "Amount": 2,
+        "Prices": {
+            "Min": 390,
+            "Stable": 390,
+            "Max": 396
+        },
+        "Materials": [
+            {
+                "Name": "黑火药",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1444,
+                    "Stable": 1456,
+                    "Max": 1470
+                }
+            },
+            {
+                "Name": "塑料",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 396,
+                    "Stable": 396,
+                    "Max": 396
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1840,
+            "Stable": 1852,
+            "Max": 1866
+        },
+        "Revenue": {
+            "Min": -1476,
+            "Stable": -1462,
+            "Max": -1444
+        }
+    },
+    {
+        "Name": "全息瞄具",
+        "Amount": 1,
+        "Prices": {
+            "Min": 779,
+            "Stable": 828,
+            "Max": 828
+        },
+        "Materials": [
+            {
+                "Name": "钢化镜片",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 634,
+                    "Stable": 634,
+                    "Max": 642
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 436,
+                    "Stable": 436,
+                    "Max": 436
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1278,
+                    "Stable": 1278,
+                    "Max": 1312
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2348,
+            "Stable": 2348,
+            "Max": 2390
+        },
+        "Revenue": {
+            "Min": -1611,
+            "Stable": -1520,
+            "Max": -1520
+        }
+    },
+    {
+        "Name": "过载激素",
+        "Amount": 1,
+        "Prices": {
+            "Min": 853,
+            "Stable": 853,
+            "Max": 856
+        },
+        "Materials": [
+            {
+                "Name": "强心剂",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1900,
+                    "Stable": 1900,
+                    "Max": 1948
+                }
+            },
+            {
+                "Name": "玻璃",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 260,
+                    "Stable": 272,
+                    "Max": 312
+                }
+            },
+            {
+                "Name": "菌菇提取液",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 180,
+                    "Stable": 180,
+                    "Max": 180
+                }
+            },
+            {
+                "Name": "高纯度硫磺",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 205,
+                    "Stable": 205,
+                    "Max": 223
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2545,
+            "Stable": 2557,
+            "Max": 2663
+        },
+        "Revenue": {
+            "Min": -1810,
+            "Stable": -1704,
+            "Max": -1689
+        }
+    },
+    {
+        "Name": "钛合金",
+        "Amount": 2,
+        "Prices": {
+            "Min": 1278,
+            "Stable": 1278,
+            "Max": 1312
+        },
+        "Materials": [
+            {
+                "Name": "精制硝石",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1520,
+                    "Stable": 1520,
+                    "Max": 1608
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1592,
+                    "Stable": 1632,
+                    "Max": 1856
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3112,
+            "Stable": 3152,
+            "Max": 3464
+        },
+        "Revenue": {
+            "Min": -2186,
+            "Stable": -1874,
+            "Max": -1800
+        }
+    },
+    {
+        "Name": "强化防弹陶瓷",
+        "Amount": 1,
+        "Prices": {
+            "Min": 597,
+            "Stable": 597,
+            "Max": 598
+        },
+        "Materials": [
+            {
+                "Name": "复合防弹陶瓷",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1200,
+                    "Max": 1272
+                }
+            },
+            {
+                "Name": "玻璃",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 325,
+                    "Stable": 340,
+                    "Max": 390
+                }
+            },
+            {
+                "Name": "精制硝石",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 950,
+                    "Stable": 950,
+                    "Max": 1005
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2475,
+            "Stable": 2490,
+            "Max": 2667
+        },
+        "Revenue": {
+            "Min": -2070,
+            "Stable": -1893,
+            "Max": -1877
+        }
+    },
+    {
+        "Name": "12口径鹿弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 5880,
+            "Stable": 5880,
+            "Max": 5980
+        },
+        "Materials": [
+            {
+                "Name": "12口径鸟弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 3500,
+                    "Stable": 3500,
+                    "Max": 3560
+                }
+            },
+            {
+                "Name": "黑火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2888,
+                    "Stable": 2912,
+                    "Max": 2940
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 960,
+                    "Stable": 960,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 408,
+                    "Max": 464
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 7746,
+            "Stable": 7780,
+            "Max": 7988
+        },
+        "Revenue": {
+            "Min": -2108,
+            "Stable": -1900,
+            "Max": -1766
+        }
+    },
+    {
+        "Name": "中级护甲修护",
+        "Amount": 5,
+        "Prices": {
+            "Min": 2475,
+            "Stable": 2535,
+            "Max": 2720
+        },
+        "Materials": [
+            {
+                "Name": "强化战术护甲",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 4950,
+                    "Stable": 4970,
+                    "Max": 4970
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4950,
+            "Stable": 4970,
+            "Max": 4970
+        },
+        "Revenue": {
+            "Min": -2495,
+            "Stable": -2435,
+            "Max": -2230
+        }
+    },
+    {
+        "Name": "7.62全金属弹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 8460,
+            "Stable": 8460,
+            "Max": 8460
+        },
+        "Materials": [
+            {
+                "Name": "7.62穿甲弹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 3840,
+                    "Stable": 4220,
+                    "Max": 4280
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 720,
+                    "Stable": 720,
+                    "Max": 768
+                }
+            },
+            {
+                "Name": "阿马托火药",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2700,
+                    "Stable": 2736,
+                    "Max": 2913
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 7,
+                "Costs": {
+                    "Min": 1393,
+                    "Stable": 1428,
+                    "Max": 1624
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1917,
+                    "Stable": 1917,
+                    "Max": 1968
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 10570,
+            "Stable": 11021,
+            "Max": 11553
+        },
+        "Revenue": {
+            "Min": -3093,
+            "Stable": -2561,
+            "Max": -2110
+        }
+    },
+    {
+        "Name": "强化头盔",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2174,
+            "Stable": 2174,
+            "Max": 2174
+        },
+        "Materials": [
+            {
+                "Name": "复合头盔",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 641,
+                    "Stable": 645,
+                    "Max": 645
+                }
+            },
+            {
+                "Name": "强化防弹陶瓷",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 597,
+                    "Stable": 597,
+                    "Max": 598
+                }
+            },
+            {
+                "Name": "钢化镜片",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 3170,
+                    "Stable": 3170,
+                    "Max": 3210
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 199,
+                    "Stable": 204,
+                    "Max": 232
+                }
+            },
+            {
+                "Name": "尼龙布",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 440,
+                    "Stable": 440,
+                    "Max": 440
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5047,
+            "Stable": 5056,
+            "Max": 5125
+        },
+        "Revenue": {
+            "Min": -2951,
+            "Stable": -2882,
+            "Max": -2873
+        }
+    },
+    {
+        "Name": "红点瞄具",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1499,
+            "Stable": 1512,
+            "Max": 1512
+        },
+        "Materials": [
+            {
+                "Name": "钢化镜片",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1902,
+                    "Stable": 1902,
+                    "Max": 1926
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1308,
+                    "Stable": 1308,
+                    "Max": 1308
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1278,
+                    "Stable": 1278,
+                    "Max": 1312
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4488,
+            "Stable": 4488,
+            "Max": 4546
+        },
+        "Revenue": {
+            "Min": -3047,
+            "Stable": -2976,
+            "Max": -2976
+        }
+    },
+    {
+        "Name": "战术背包",
+        "Amount": 1,
+        "Prices": {
+            "Min": 578,
+            "Stable": 578,
+            "Max": 578
+        },
+        "Materials": [
+            {
+                "Name": "双肩背包",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 378,
+                    "Stable": 378,
+                    "Max": 378
+                }
+            },
+            {
+                "Name": "橡胶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 800,
+                    "Stable": 800,
+                    "Max": 976
+                }
+            },
+            {
+                "Name": "尼龙布",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 880,
+                    "Stable": 880,
+                    "Max": 880
+                }
+            },
+            {
+                "Name": "漆皮革",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 462,
+                    "Stable": 465,
+                    "Max": 516
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1860,
+                    "Stable": 1878,
+                    "Max": 1905
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4380,
+            "Stable": 4401,
+            "Max": 4655
+        },
+        "Revenue": {
+            "Min": -4077,
+            "Stable": -3823,
+            "Max": -3802
+        }
+    },
+    {
+        "Name": "8倍镜",
+        "Amount": 1,
+        "Prices": {
+            "Min": 779,
+            "Stable": 817,
+            "Max": 817
+        },
+        "Materials": [
+            {
+                "Name": "钢化镜片",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 2536,
+                    "Stable": 2536,
+                    "Max": 2568
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 872,
+                    "Stable": 872,
+                    "Max": 872
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1278,
+                    "Stable": 1278,
+                    "Max": 1312
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4686,
+            "Stable": 4686,
+            "Max": 4752
+        },
+        "Revenue": {
+            "Min": -3973,
+            "Stable": -3869,
+            "Max": -3869
+        }
+    },
+    {
+        "Name": "无烟火药",
+        "Amount": 2,
+        "Prices": {
+            "Min": 480,
+            "Stable": 480,
+            "Max": 512
+        },
+        "Materials": [
+            {
+                "Name": "黑火药",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 3610,
+                    "Stable": 3640,
+                    "Max": 3675
+                }
+            },
+            {
+                "Name": "精制硝石",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 950,
+                    "Stable": 950,
+                    "Max": 1005
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4560,
+            "Stable": 4590,
+            "Max": 4680
+        },
+        "Revenue": {
+            "Min": -4200,
+            "Stable": -4110,
+            "Max": -4048
+        }
+    },
+    {
+        "Name": "4倍镜",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1159,
+            "Stable": 1181,
+            "Max": 1181
+        },
+        "Materials": [
+            {
+                "Name": "钢化镜片",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 2536,
+                    "Stable": 2536,
+                    "Max": 2568
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1744,
+                    "Stable": 1744,
+                    "Max": 1744
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 995,
+                    "Stable": 1020,
+                    "Max": 1160
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5275,
+            "Stable": 5300,
+            "Max": 5472
+        },
+        "Revenue": {
+            "Min": -4313,
+            "Stable": -4119,
+            "Max": -4094
+        }
+    },
+    {
+        "Name": "12口径箭弹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 9000,
+            "Stable": 9390,
+            "Max": 9570
+        },
+        "Materials": [
+            {
+                "Name": "12口径鹿弹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 5880,
+                    "Stable": 5880,
+                    "Max": 5980
+                }
+            },
+            {
+                "Name": "无烟火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 960,
+                    "Stable": 960,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "阿马托火药",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 3600,
+                    "Stable": 3648,
+                    "Max": 3884
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 1791,
+                    "Stable": 1836,
+                    "Max": 2088
+                }
+            },
+            {
+                "Name": "钛合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1278,
+                    "Stable": 1278,
+                    "Max": 1312
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 13509,
+            "Stable": 13602,
+            "Max": 14288
+        },
+        "Revenue": {
+            "Min": -5288,
+            "Stable": -4212,
+            "Max": -3939
+        }
+    },
+    {
+        "Name": "战术短靴",
+        "Amount": 1,
+        "Prices": {
+            "Min": 655,
+            "Stable": 722,
+            "Max": 722
+        },
+        "Materials": [
+            {
+                "Name": "越野短靴",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 398,
+                    "Max": 398
+                }
+            },
+            {
+                "Name": "橡胶",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 200,
+                    "Stable": 200,
+                    "Max": 244
+                }
+            },
+            {
+                "Name": "漆皮革",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 770,
+                    "Stable": 775,
+                    "Max": 860
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 3720,
+                    "Stable": 3756,
+                    "Max": 3810
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5088,
+            "Stable": 5129,
+            "Max": 5312
+        },
+        "Revenue": {
+            "Min": -4657,
+            "Stable": -4407,
+            "Max": -4366
+        }
+    },
+    {
+        "Name": "全面改装组合",
+        "Amount": 1,
+        "Prices": {
+            "Min": 6299,
+            "Stable": 6372,
+            "Max": 6815
+        },
+        "Materials": [
+            {
+                "Name": "近身冲突组合",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2772,
+                    "Stable": 2872,
+                    "Max": 3033
+                }
+            },
+            {
+                "Name": "狙击大师组合",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2732,
+                    "Stable": 2768,
+                    "Max": 2860
+                }
+            },
+            {
+                "Name": "双导轨组合",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2887,
+                    "Stable": 2969,
+                    "Max": 3450
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1655,
+                    "Stable": 2272,
+                    "Max": 2466
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 10046,
+            "Stable": 10881,
+            "Max": 11809
+        },
+        "Revenue": {
+            "Min": -5510,
+            "Stable": -4509,
+            "Max": -3231
+        }
+    },
+    {
+        "Name": "专业背包",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2175,
+            "Stable": 2187,
+            "Max": 2187
+        },
+        "Materials": [
+            {
+                "Name": "战术背包",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 578,
+                    "Stable": 578,
+                    "Max": 578
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 872,
+                    "Stable": 872,
+                    "Max": 872
+                }
+            },
+            {
+                "Name": "防水布",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2088,
+                    "Stable": 2187,
+                    "Max": 2343
+                }
+            },
+            {
+                "Name": "翻毛皮革",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1048,
+                    "Stable": 1048,
+                    "Max": 1184
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1655,
+                    "Stable": 2272,
+                    "Max": 2466
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 6241,
+            "Stable": 6957,
+            "Max": 7443
+        },
+        "Revenue": {
+            "Min": -5268,
+            "Stable": -4770,
+            "Max": -4054
+        }
+    },
+    {
+        "Name": "2倍镜",
+        "Amount": 1,
+        "Prices": {
+            "Min": 324,
+            "Stable": 324,
+            "Max": 324
+        },
+        "Materials": [
+            {
+                "Name": "钢化镜片",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 2536,
+                    "Stable": 2536,
+                    "Max": 2568
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1744,
+                    "Stable": 1744,
+                    "Max": 1744
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 850,
+                    "Stable": 850,
+                    "Max": 850
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5130,
+            "Stable": 5130,
+            "Max": 5162
+        },
+        "Revenue": {
+            "Min": -4838,
+            "Stable": -4806,
+            "Max": -4806
+        }
+    },
+    {
+        "Name": "改良握把",
+        "Amount": 1,
+        "Prices": {
+            "Min": 530,
+            "Stable": 575,
+            "Max": 575
+        },
+        "Materials": [
+            {
+                "Name": "通用握把",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 299,
+                    "Stable": 299,
+                    "Max": 299
+                }
+            },
+            {
+                "Name": "橡胶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 800,
+                    "Stable": 800,
+                    "Max": 976
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 5580,
+                    "Stable": 5634,
+                    "Max": 5715
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 6679,
+            "Stable": 6733,
+            "Max": 6990
+        },
+        "Revenue": {
+            "Min": -6460,
+            "Stable": -6158,
+            "Max": -6104
+        }
+    },
+    {
+        "Name": "精准枪托",
+        "Amount": 1,
+        "Prices": {
+            "Min": 707,
+            "Stable": 728,
+            "Max": 728
+        },
+        "Materials": [
+            {
+                "Name": "通用枪托",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 649,
+                    "Stable": 649,
+                    "Max": 649
+                }
+            },
+            {
+                "Name": "橡胶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 800,
+                    "Stable": 800,
+                    "Max": 976
+                }
+            },
+            {
+                "Name": "碳纤维",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 5580,
+                    "Stable": 5634,
+                    "Max": 5715
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 7029,
+            "Stable": 7083,
+            "Max": 7340
+        },
+        "Revenue": {
+            "Min": -6633,
+            "Stable": -6355,
+            "Max": -6301
+        }
+    },
+    {
+        "Name": "4倍侧瞄具",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1201,
+            "Stable": 1201,
+            "Max": 1201
+        },
+        "Materials": [
+            {
+                "Name": "红点瞄具",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1499,
+                    "Stable": 1512,
+                    "Max": 1512
+                }
+            },
+            {
+                "Name": "4倍镜",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1159,
+                    "Stable": 1181,
+                    "Max": 1181
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 436,
+                    "Stable": 436,
+                    "Max": 436
+                }
+            },
+            {
+                "Name": "防化涂层布",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2500,
+                    "Stable": 2500,
+                    "Max": 2678
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1655,
+                    "Stable": 2272,
+                    "Max": 2466
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 7249,
+            "Stable": 7901,
+            "Max": 8273
+        },
+        "Revenue": {
+            "Min": -7072,
+            "Stable": -6700,
+            "Max": -6048
+        }
+    },
+    {
+        "Name": "复合头盔",
+        "Amount": 1,
+        "Prices": {
+            "Min": 641,
+            "Stable": 645,
+            "Max": 645
+        },
+        "Materials": [
+            {
+                "Name": "战术面罩",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 762,
+                    "Stable": 777,
+                    "Max": 777
+                }
+            },
+            {
+                "Name": "复合防弹陶瓷",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 2400,
+                    "Stable": 2400,
+                    "Max": 2544
+                }
+            },
+            {
+                "Name": "钢化镜片",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 3170,
+                    "Stable": 3170,
+                    "Max": 3210
+                }
+            },
+            {
+                "Name": "特种钢",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 510,
+                    "Stable": 510,
+                    "Max": 510
+                }
+            },
+            {
+                "Name": "棉布",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1200,
+                    "Max": 1464
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 8042,
+            "Stable": 8057,
+            "Max": 8505
+        },
+        "Revenue": {
+            "Min": -7864,
+            "Stable": -7412,
+            "Max": -7397
+        }
+    },
+    {
+        "Name": "复合战术护甲",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1200,
+            "Stable": 1211,
+            "Max": 1211
+        },
+        "Materials": [
+            {
+                "Name": "特种战术背心",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 949,
+                    "Stable": 973,
+                    "Max": 973
+                }
+            },
+            {
+                "Name": "复合防弹陶瓷",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 4000,
+                    "Stable": 4000,
+                    "Max": 4240
+                }
+            },
+            {
+                "Name": "粘膜革",
+                "Amount": 12,
+                "Costs": {
+                    "Min": 3588,
+                    "Stable": 3588,
+                    "Max": 3588
+                }
+            },
+            {
+                "Name": "玻璃纤维",
+                "Amount": 12,
+                "Costs": {
+                    "Min": 1068,
+                    "Stable": 1068,
+                    "Max": 1236
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9605,
+            "Stable": 9629,
+            "Max": 10037
+        },
+        "Revenue": {
+            "Min": -8837,
+            "Stable": -8418,
+            "Max": -8394
+        }
+    },
+    {
+        "Name": "专家战靴",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1928,
+            "Stable": 1928,
+            "Max": 1928
+        },
+        "Materials": [
+            {
+                "Name": "战术短靴",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 655,
+                    "Stable": 722,
+                    "Max": 722
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 1090,
+                    "Stable": 1090,
+                    "Max": 1090
+                }
+            },
+            {
+                "Name": "翻毛皮革",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 2096,
+                    "Stable": 2096,
+                    "Max": 2368
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 4965,
+                    "Stable": 6816,
+                    "Max": 7398
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 8806,
+            "Stable": 10724,
+            "Max": 11578
+        },
+        "Revenue": {
+            "Min": -9650,
+            "Stable": -8796,
+            "Max": -6878
+        }
+    },
+    {
+        "Name": "8倍侧瞄具",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1505,
+            "Stable": 1505,
+            "Max": 1505
+        },
+        "Materials": [
+            {
+                "Name": "红点瞄具",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1499,
+                    "Stable": 1512,
+                    "Max": 1512
+                }
+            },
+            {
+                "Name": "8倍镜",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 779,
+                    "Stable": 817,
+                    "Max": 817
+                }
+            },
+            {
+                "Name": "天然树脂",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 654,
+                    "Stable": 654,
+                    "Max": 654
+                }
+            },
+            {
+                "Name": "铝合金",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 398,
+                    "Stable": 408,
+                    "Max": 464
+                }
+            },
+            {
+                "Name": "定型人造革",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2500,
+                    "Stable": 2536,
+                    "Max": 2587
+                }
+            },
+            {
+                "Name": "凯夫拉纤维",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 3310,
+                    "Stable": 4544,
+                    "Max": 4932
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9140,
+            "Stable": 10471,
+            "Max": 10966
+        },
+        "Revenue": {
+            "Min": -9461,
+            "Stable": -8966,
+            "Max": -7635
+        }
+    }
+]
