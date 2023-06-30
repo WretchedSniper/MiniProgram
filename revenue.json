@@ -1,1 +1,3560 @@
-[{"Name": "¸ß¼¶Í·¿øĞŞ»¤", "Amount": 5, "Prices": {"Min": 14185, "Stable": 14185, "Max": 14205}, "Materials": [{"Name": "Éñ¶ÜÍ·¿ø", "Amount": 1, "Costs": {"Min": 9999, "Stable": 10397, "Max": 10397}}], "Costs": {"Min": 9999, "Stable": 10397, "Max": 10397}, "Revenue": {"Min": 3788, "Stable": 3788, "Max": 4206}}, {"Name": "Éñ¶ÜÕ½Êõ»¤¼×", "Amount": 1, "Prices": {"Min": 20332, "Stable": 20832, "Max": 20832}, "Materials": [{"Name": "Ç¿»¯Õ½Êõ»¤¼×", "Amount": 1, "Costs": {"Min": 4398, "Stable": 4474, "Max": 4474}}, {"Name": "¾§Ğë¹è¸Ö", "Amount": 2, "Costs": {"Min": 5200, "Stable": 5446, "Max": 5590}}, {"Name": "·­Ã«Æ¤¸ï", "Amount": 2, "Costs": {"Min": 1554, "Stable": 1554, "Max": 1582}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 4, "Costs": {"Min": 1760, "Stable": 1760, "Max": 1776}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 3, "Costs": {"Min": 4878, "Stable": 5181, "Max": 5298}}], "Costs": {"Min": 17790, "Stable": 18415, "Max": 18720}, "Revenue": {"Min": 1612, "Stable": 2417, "Max": 3042}}, {"Name": "Éñ¶ÜÍ·¿ø", "Amount": 1, "Prices": {"Min": 9999, "Stable": 10397, "Max": 10397}, "Materials": [{"Name": "Ç¿»¯Í·¿ø", "Amount": 1, "Costs": {"Min": 2454, "Stable": 2488, "Max": 2488}}, {"Name": "¾§Ğë¹è¸Ö", "Amount": 1, "Costs": {"Min": 2600, "Stable": 2723, "Max": 2795}}, {"Name": "¸Ö»¯¾µÆ¬", "Amount": 10, "Costs": {"Min": 1880, "Stable": 1950, "Max": 2030}}, {"Name": "îÑºÏ½ğ", "Amount": 1, "Costs": {"Min": 805, "Stable": 805, "Max": 813}}, {"Name": "·ÀË®²¼", "Amount": 2, "Costs": {"Min": 1220, "Stable": 1220, "Max": 1222}}], "Costs": {"Min": 8959, "Stable": 9186, "Max": 9348}, "Revenue": {"Min": 651, "Stable": 1211, "Max": 1438}}, {"Name": "½üÉí³åÍ»×éºÏ", "Amount": 1, "Prices": {"Min": 2940, "Stable": 2979, "Max": 3035}, "Materials": [{"Name": "ÎÕ°Ñ¼Ó×°", "Amount": 1, "Costs": {"Min": 697, "Stable": 698, "Max": 772}}, {"Name": "Ç¹¿Ú¼Ó×°", "Amount": 1, "Costs": {"Min": 550, "Stable": 663, "Max": 2025}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 1, "Costs": {"Min": 440, "Stable": 440, "Max": 444}}], "Costs": {"Min": 1687, "Stable": 1801, "Max": 3241}, "Revenue": {"Min": -301, "Stable": 1178, "Max": 1348}}, {"Name": "12.7È«½ğÊôµ¯", "Amount": 10, "Prices": {"Min": 17950, "Stable": 17990, "Max": 17990}, "Materials": [{"Name": "12.7´©¼×µ¯", "Amount": 10, "Costs": {"Min": 5850, "Stable": 5850, "Max": 5860}}, {"Name": "ºÚ»ğÒ©", "Amount": 4, "Costs": {"Min": 1596, "Stable": 1972, "Max": 2048}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Costs": {"Min": 1080, "Stable": 1372, "Max": 1472}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 3, "Costs": {"Min": 2607, "Stable": 2607, "Max": 2607}}, {"Name": "ÂÁºÏ½ğ", "Amount": 8, "Costs": {"Min": 3384, "Stable": 3528, "Max": 3560}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Costs": {"Min": 1610, "Stable": 1610, "Max": 1626}}], "Costs": {"Min": 16127, "Stable": 16939, "Max": 17173}, "Revenue": {"Min": 777, "Stable": 1051, "Max": 1863}}, {"Name": "9mm´©¼×µ¯", "Amount": 20, "Prices": {"Min": 4920, "Stable": 4920, "Max": 4920}, "Materials": [{"Name": "9mm¿Õ¼âµ¯", "Amount": 20, "Costs": {"Min": 1580, "Stable": 1580, "Max": 1580}}, {"Name": "ºÚ»ğÒ©", "Amount": 1, "Costs": {"Min": 399, "Stable": 493, "Max": 512}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Costs": {"Min": 1080, "Stable": 1372, "Max": 1472}}, {"Name": "ÂÁºÏ½ğ", "Amount": 1, "Costs": {"Min": 423, "Stable": 441, "Max": 445}}], "Costs": {"Min": 3482, "Stable": 3886, "Max": 4009}, "Revenue": {"Min": 911, "Stable": 1034, "Max": 1438}}, {"Name": "¾Ñ»÷´óÊ¦×éºÏ", "Amount": 1, "Prices": {"Min": 2775, "Stable": 2966, "Max": 3262}, "Materials": [{"Name": "Ãé¾ß¼Ó×°", "Amount": 1, "Costs": {"Min": 766, "Stable": 849, "Max": 4919}}, {"Name": "Ç¹¿Ú¼Ó×°", "Amount": 1, "Costs": {"Min": 550, "Stable": 663, "Max": 2025}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 1, "Costs": {"Min": 440, "Stable": 440, "Max": 444}}], "Costs": {"Min": 1756, "Stable": 1952, "Max": 7388}, "Revenue": {"Min": -4613, "Stable": 1014, "Max": 1506}}, {"Name": "¼±¾È°ü", "Amount": 5, "Prices": {"Min": 2430, "Stable": 2430, "Max": 2430}, "Materials": [{"Name": "±Á´ø", "Amount": 10, "Costs": {"Min": 250, "Stable": 250, "Max": 250}}, {"Name": "¾Æ¾«", "Amount": 5, "Costs": {"Min": 585, "Stable": 590, "Max": 605}}, {"Name": "ÃŞ²¼", "Amount": 5, "Costs": {"Min": 735, "Stable": 745, "Max": 790}}], "Costs": {"Min": 1570, "Stable": 1585, "Max": 1645}, "Revenue": {"Min": 785, "Stable": 845, "Max": 860}}, {"Name": "5.56´©¼×µ¯", "Amount": 20, "Prices": {"Min": 4800, "Stable": 4800, "Max": 4840}, "Materials": [{"Name": "5.56¿Õ¼âµ¯", "Amount": 20, "Costs": {"Min": 1200, "Stable": 1200, "Max": 1200}}, {"Name": "ºÚ»ğÒ©", "Amount": 2, "Costs": {"Min": 798, "Stable": 986, "Max": 1024}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Costs": {"Min": 1080, "Stable": 1372, "Max": 1472}}, {"Name": "ÂÁºÏ½ğ", "Amount": 1, "Costs": {"Min": 423, "Stable": 441, "Max": 445}}], "Costs": {"Min": 3501, "Stable": 3999, "Max": 4141}, "Revenue": {"Min": 659, "Stable": 801, "Max": 1339}}, {"Name": "Ë«µ¼¹ì×éºÏ", "Amount": 1, "Prices": {"Min": 2763, "Stable": 2782, "Max": 3064}, "Materials": [{"Name": "Ãé¾ß¼Ó×°", "Amount": 1, "Costs": {"Min": 766, "Stable": 849, "Max": 4919}}, {"Name": "ÎÕ°Ñ¼Ó×°", "Amount": 1, "Costs": {"Min": 697, "Stable": 698, "Max": 772}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 1, "Costs": {"Min": 440, "Stable": 440, "Max": 444}}], "Costs": {"Min": 1903, "Stable": 1987, "Max": 6135}, "Revenue": {"Min": -3372, "Stable": 795, "Max": 1161}}, {"Name": "³õ¼¶»¤¼×ĞŞ»¤", "Amount": 5, "Prices": {"Min": 2125, "Stable": 2130, "Max": 2160}, "Materials": [{"Name": "¸´ºÏÕ½Êõ»¤¼×", "Amount": 1, "Costs": {"Min": 1296, "Stable": 1340, "Max": 1340}}], "Costs": {"Min": 1296, "Stable": 1340, "Max": 1340}, "Revenue": {"Min": 785, "Stable": 790, "Max": 864}}, {"Name": "³õ¼¶Í·¿øĞŞ»¤", "Amount": 5, "Prices": {"Min": 1340, "Stable": 1340, "Max": 1340}, "Materials": [{"Name": "¸´ºÏÍ·¿ø", "Amount": 1, "Costs": {"Min": 667, "Stable": 706, "Max": 706}}], "Costs": {"Min": 667, "Stable": 706, "Max": 706}, "Revenue": {"Min": 634, "Stable": 634, "Max": 673}}, {"Name": "Í¶ÖÀÀ×´ï", "Amount": 2, "Prices": {"Min": 3330, "Stable": 3500, "Max": 3524}, "Materials": [{"Name": "µç×ÓĞ¾Æ¬", "Amount": 1, "Costs": {"Min": 200, "Stable": 200, "Max": 200}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Costs": {"Min": 846, "Stable": 882, "Max": 890}}, {"Name": "ËÜÁÏ", "Amount": 10, "Costs": {"Min": 1780, "Stable": 1790, "Max": 1850}}], "Costs": {"Min": 2826, "Stable": 2872, "Max": 2940}, "Revenue": {"Min": 390, "Stable": 628, "Max": 698}}, {"Name": "12.7´©¼×µ¯", "Amount": 10, "Prices": {"Min": 5850, "Stable": 5850, "Max": 5860}, "Materials": [{"Name": "12.7¿Õ¼âµ¯", "Amount": 10, "Costs": {"Min": 950, "Stable": 950, "Max": 1000}}, {"Name": "ºÚ»ğÒ©", "Amount": 3, "Costs": {"Min": 1197, "Stable": 1479, "Max": 1536}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 3, "Costs": {"Min": 1620, "Stable": 2058, "Max": 2208}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Costs": {"Min": 846, "Stable": 882, "Max": 890}}], "Costs": {"Min": 4613, "Stable": 5369, "Max": 5634}, "Revenue": {"Min": 216, "Stable": 481, "Max": 1247}}, {"Name": "ÂÌÆá", "Amount": 1, "Prices": {"Min": 2607, "Stable": 2607, "Max": 2607}, "Materials": [{"Name": "»ÆÆá", "Amount": 1, "Costs": {"Min": 1199, "Stable": 1199, "Max": 1247}}, {"Name": "ÇàÆá", "Amount": 1, "Costs": {"Min": 1088, "Stable": 1097, "Max": 1099}}], "Costs": {"Min": 2287, "Stable": 2296, "Max": 2346}, "Revenue": {"Min": 261, "Stable": 311, "Max": 320}}, {"Name": "Ö¹Í´Ò©", "Amount": 2, "Prices": {"Min": 350, "Stable": 352, "Max": 354}, "Materials": [{"Name": "Âé×í¼Á", "Amount": 3, "Costs": {"Min": 114, "Stable": 114, "Max": 117}}], "Costs": {"Min": 114, "Stable": 114, "Max": 117}, "Revenue": {"Min": 233, "Stable": 238, "Max": 240}}, {"Name": "¾§Ğë¹è¸Ö", "Amount": 1, "Prices": {"Min": 2600, "Stable": 2723, "Max": 2795}, "Materials": [{"Name": "Ç¿»¯·Àµ¯ÌÕ´É", "Amount": 3, "Costs": {"Min": 1530, "Stable": 1629, "Max": 1695}}, {"Name": "²£Á§", "Amount": 10, "Costs": {"Min": 470, "Stable": 480, "Max": 540}}, {"Name": "¸ß´¿¶ÈÁò»Ç", "Amount": 2, "Costs": {"Min": 400, "Stable": 400, "Max": 400}}], "Costs": {"Min": 2400, "Stable": 2509, "Max": 2635}, "Revenue": {"Min": -35, "Stable": 214, "Max": 395}}, {"Name": "9mm¿Õ¼âµ¯", "Amount": 20, "Prices": {"Min": 1580, "Stable": 1580, "Max": 1580}, "Materials": [{"Name": "9mmÆÕÍ¨µ¯", "Amount": 20, "Costs": {"Min": 320, "Stable": 320, "Max": 320}}, {"Name": "ºÚ»ğÒ©", "Amount": 2, "Costs": {"Min": 798, "Stable": 986, "Max": 1024}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 1, "Costs": {"Min": 62, "Stable": 62, "Max": 65}}], "Costs": {"Min": 1180, "Stable": 1368, "Max": 1409}, "Revenue": {"Min": 171, "Stable": 212, "Max": 400}}, {"Name": "·­Ã«Æ¤¸ï", "Amount": 1, "Prices": {"Min": 777, "Stable": 777, "Max": 791}, "Materials": [{"Name": "Ïğ½º", "Amount": 1, "Costs": {"Min": 67, "Stable": 67, "Max": 67}}, {"Name": "ÆáÆ¤¸ï", "Amount": 4, "Costs": {"Min": 600, "Stable": 600, "Max": 640}}], "Costs": {"Min": 667, "Stable": 667, "Max": 707}, "Revenue": {"Min": 70, "Stable": 110, "Max": 124}}, {"Name": "¸Ö»¯¾µÆ¬", "Amount": 2, "Prices": {"Min": 376, "Stable": 390, "Max": 406}, "Materials": [{"Name": "²£Á§", "Amount": 6, "Costs": {"Min": 282, "Stable": 288, "Max": 324}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 1, "Costs": {"Min": 62, "Stable": 62, "Max": 65}}], "Costs": {"Min": 344, "Stable": 350, "Max": 389}, "Revenue": {"Min": -13, "Stable": 40, "Max": 62}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 1, "Prices": {"Min": 440, "Stable": 440, "Max": 444}, "Materials": [{"Name": "Ïğ½º", "Amount": 1, "Costs": {"Min": 67, "Stable": 67, "Max": 67}}, {"Name": "²£Á§ÏËÎ¬", "Amount": 4, "Costs": {"Min": 360, "Stable": 360, "Max": 376}}], "Costs": {"Min": 427, "Stable": 427, "Max": 443}, "Revenue": {"Min": -3, "Stable": 13, "Max": 17}}, {"Name": "5.56¿Õ¼âµ¯", "Amount": 20, "Prices": {"Min": 1200, "Stable": 1200, "Max": 1200}, "Materials": [{"Name": "5.56ÆÕÍ¨µ¯", "Amount": 20, "Costs": {"Min": 180, "Stable": 180, "Max": 180}}, {"Name": "ºÚ»ğÒ©", "Amount": 2, "Costs": {"Min": 798, "Stable": 986, "Max": 1024}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 1, "Costs": {"Min": 62, "Stable": 62, "Max": 65}}], "Costs": {"Min": 1040, "Stable": 1228, "Max": 1269}, "Revenue": {"Min": -69, "Stable": -28, "Max": 160}}, {"Name": "È¼ÉÕµ¯", "Amount": 4, "Prices": {"Min": 640, "Stable": 900, "Max": 1000}, "Materials": [{"Name": "²£Á§", "Amount": 2, "Costs": {"Min": 94, "Stable": 96, "Max": 108}}, {"Name": "¾Æ¾«", "Amount": 2, "Costs": {"Min": 234, "Stable": 236, "Max": 242}}, {"Name": "ÃŞ²¼", "Amount": 4, "Costs": {"Min": 588, "Stable": 596, "Max": 632}}], "Costs": {"Min": 916, "Stable": 928, "Max": 982}, "Revenue": {"Min": -342, "Stable": -28, "Max": 84}}, {"Name": "¸´ºÏ·Àµ¯ÌÕ´É", "Amount": 1, "Prices": {"Min": 249, "Stable": 249, "Max": 280}, "Materials": [{"Name": "·Àµ¯ÌÕ´É", "Amount": 4, "Costs": {"Min": 156, "Stable": 156, "Max": 160}}, {"Name": "²£Á§", "Amount": 1, "Costs": {"Min": 47, "Stable": 48, "Max": 54}}, {"Name": "¹èÑÒ", "Amount": 1, "Costs": {"Min": 72, "Stable": 74, "Max": 76}}], "Costs": {"Min": 275, "Stable": 278, "Max": 290}, "Revenue": {"Min": -41, "Stable": -29, "Max": 5}}, {"Name": "·ÀË®²¼", "Amount": 1, "Prices": {"Min": 610, "Stable": 610, "Max": 611}, "Materials": [{"Name": "Ïğ½º", "Amount": 1, "Costs": {"Min": 67, "Stable": 67, "Max": 67}}, {"Name": "ÄáÁú²¼", "Amount": 4, "Costs": {"Min": 600, "Stable": 600, "Max": 600}}], "Costs": {"Min": 667, "Stable": 667, "Max": 667}, "Revenue": {"Min": -57, "Stable": -57, "Max": -56}}, {"Name": "7.62¿Õ¼âµ¯", "Amount": 20, "Prices": {"Min": 1760, "Stable": 1760, "Max": 1760}, "Materials": [{"Name": "7.62ÆÕÍ¨µ¯", "Amount": 20, "Costs": {"Min": 160, "Stable": 160, "Max": 160}}, {"Name": "ºÚ»ğÒ©", "Amount": 3, "Costs": {"Min": 1197, "Stable": 1479, "Max": 1536}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 3, "Costs": {"Min": 186, "Stable": 186, "Max": 195}}], "Costs": {"Min": 1543, "Stable": 1825, "Max": 1891}, "Revenue": {"Min": -131, "Stable": -65, "Max": 217}}, {"Name": "¾«ÖÆÏõÊ¯", "Amount": 1, "Prices": {"Min": 147, "Stable": 147, "Max": 147}, "Materials": [{"Name": "¹èÑÒ", "Amount": 3, "Costs": {"Min": 216, "Stable": 222, "Max": 228}}], "Costs": {"Min": 216, "Stable": 222, "Max": 228}, "Revenue": {"Min": -81, "Stable": -75, "Max": -69}}, {"Name": "Ç¿»¯Õ½Êõ»¤¼×", "Amount": 1, "Prices": {"Min": 4398, "Stable": 4474, "Max": 4474}, "Materials": [{"Name": "¸´ºÏÕ½Êõ»¤¼×", "Amount": 1, "Costs": {"Min": 1296, "Stable": 1340, "Max": 1340}}, {"Name": "Ç¿»¯·Àµ¯ÌÕ´É", "Amount": 3, "Costs": {"Min": 1530, "Stable": 1629, "Max": 1695}}, {"Name": "ÆáÆ¤¸ï", "Amount": 2, "Costs": {"Min": 300, "Stable": 300, "Max": 320}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 3, "Costs": {"Min": 1320, "Stable": 1320, "Max": 1332}}], "Costs": {"Min": 4446, "Stable": 4589, "Max": 4687}, "Revenue": {"Min": -289, "Stable": -115, "Max": 28}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Prices": {"Min": 846, "Stable": 882, "Max": 890}, "Materials": [{"Name": "¹èÑÒ", "Amount": 10, "Costs": {"Min": 720, "Stable": 740, "Max": 760}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 5, "Costs": {"Min": 310, "Stable": 310, "Max": 325}}], "Costs": {"Min": 1030, "Stable": 1050, "Max": 1085}, "Revenue": {"Min": -239, "Stable": -168, "Max": -140}}, {"Name": "Âé×íÕë", "Amount": 1, "Prices": {"Min": 60, "Stable": 60, "Max": 60}, "Materials": [{"Name": "²£Á§", "Amount": 2, "Costs": {"Min": 94, "Stable": 96, "Max": 108}}, {"Name": "Âé×í¼Á", "Amount": 4, "Costs": {"Min": 152, "Stable": 152, "Max": 156}}], "Costs": {"Min": 246, "Stable": 248, "Max": 264}, "Revenue": {"Min": -204, "Stable": -188, "Max": -186}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 1, "Prices": {"Min": 130, "Stable": 130, "Max": 130}, "Materials": [{"Name": "Ïğ½º", "Amount": 5, "Costs": {"Min": 335, "Stable": 335, "Max": 335}}], "Costs": {"Min": 335, "Stable": 335, "Max": 335}, "Revenue": {"Min": -205, "Stable": -205, "Max": -205}}, {"Name": "²£Á§ÏËÎ¬", "Amount": 1, "Prices": {"Min": 90, "Stable": 90, "Max": 94}, "Materials": [{"Name": "²£Á§", "Amount": 1, "Costs": {"Min": 47, "Stable": 48, "Max": 54}}, {"Name": "ËÜÁÏ", "Amount": 2, "Costs": {"Min": 356, "Stable": 358, "Max": 370}}], "Costs": {"Min": 403, "Stable": 406, "Max": 424}, "Revenue": {"Min": -334, "Stable": -316, "Max": -309}}, {"Name": "ÔÙÉúÒ©¼Á", "Amount": 2, "Prices": {"Min": 1480, "Stable": 1502, "Max": 1566}, "Materials": [{"Name": "¼±¾È°ü", "Amount": 2, "Costs": {"Min": 972, "Stable": 972, "Max": 972}}, {"Name": "²£Á§", "Amount": 4, "Costs": {"Min": 188, "Stable": 192, "Max": 216}}, {"Name": "¾Æ¾«", "Amount": 6, "Costs": {"Min": 702, "Stable": 708, "Max": 726}}], "Costs": {"Min": 1862, "Stable": 1872, "Max": 1914}, "Revenue": {"Min": -434, "Stable": -370, "Max": -296}}, {"Name": "ÆáÆ¤¸ï", "Amount": 1, "Prices": {"Min": 150, "Stable": 150, "Max": 160}, "Materials": [{"Name": "Ïğ½º", "Amount": 1, "Costs": {"Min": 67, "Stable": 67, "Max": 67}}, {"Name": "Õ³Ä¤¸ï", "Amount": 5, "Costs": {"Min": 550, "Stable": 550, "Max": 580}}], "Costs": {"Min": 617, "Stable": 617, "Max": 647}, "Revenue": {"Min": -497, "Stable": -467, "Max": -457}}, {"Name": "ÕÎÆøµ¯", "Amount": 2, "Prices": {"Min": 596, "Stable": 596, "Max": 620}, "Materials": [{"Name": "ÑÌÎíµ¯", "Amount": 2, "Costs": {"Min": 256, "Stable": 256, "Max": 258}}, {"Name": "¾ú¹½ÌáÈ¡Òº", "Amount": 4, "Costs": {"Min": 132, "Stable": 136, "Max": 148}}, {"Name": "ËÜÁÏ", "Amount": 4, "Costs": {"Min": 712, "Stable": 716, "Max": 740}}], "Costs": {"Min": 1100, "Stable": 1108, "Max": 1146}, "Revenue": {"Min": -550, "Stable": -512, "Max": -480}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 1, "Prices": {"Min": 1626, "Stable": 1727, "Max": 1766}, "Materials": [{"Name": "Ïğ½º", "Amount": 6, "Costs": {"Min": 402, "Stable": 402, "Max": 402}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 3, "Costs": {"Min": 186, "Stable": 186, "Max": 195}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 4, "Costs": {"Min": 1760, "Stable": 1760, "Max": 1776}}], "Costs": {"Min": 2348, "Stable": 2348, "Max": 2373}, "Revenue": {"Min": -747, "Stable": -621, "Max": -582}}, {"Name": "12¿Ú¾¶Äñµ¯", "Amount": 10, "Prices": {"Min": 1890, "Stable": 1910, "Max": 1930}, "Materials": [{"Name": "12¿Ú¾¶Ïğ½ºµ¯", "Amount": 10, "Costs": {"Min": 550, "Stable": 550, "Max": 580}}, {"Name": "ºÚ»ğÒ©", "Amount": 4, "Costs": {"Min": 1596, "Stable": 1972, "Max": 2048}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 3, "Costs": {"Min": 186, "Stable": 186, "Max": 195}}], "Costs": {"Min": 2332, "Stable": 2708, "Max": 2823}, "Revenue": {"Min": -933, "Stable": -798, "Max": -402}}, {"Name": "ÄáÁú²¼", "Amount": 1, "Prices": {"Min": 150, "Stable": 150, "Max": 150}, "Materials": [{"Name": "Ïğ½º", "Amount": 1, "Costs": {"Min": 67, "Stable": 67, "Max": 67}}, {"Name": "ÃŞ²¼", "Amount": 6, "Costs": {"Min": 882, "Stable": 894, "Max": 948}}], "Costs": {"Min": 949, "Stable": 961, "Max": 1015}, "Revenue": {"Min": -865, "Stable": -811, "Max": -799}}, {"Name": "12.7¿Õ¼âµ¯", "Amount": 10, "Prices": {"Min": 950, "Stable": 950, "Max": 1000}, "Materials": [{"Name": "12.7ÆÕÍ¨µ¯", "Amount": 10, "Costs": {"Min": 120, "Stable": 120, "Max": 120}}, {"Name": "ºÚ»ğÒ©", "Amount": 3, "Costs": {"Min": 1197, "Stable": 1479, "Max": 1536}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 3, "Costs": {"Min": 186, "Stable": 186, "Max": 195}}], "Costs": {"Min": 1503, "Stable": 1785, "Max": 1851}, "Revenue": {"Min": -901, "Stable": -835, "Max": -503}}, {"Name": "5.56È«½ğÊôµ¯", "Amount": 20, "Prices": {"Min": 10940, "Stable": 10940, "Max": 10960}, "Materials": [{"Name": "5.56´©¼×µ¯", "Amount": 20, "Costs": {"Min": 4800, "Stable": 4800, "Max": 4840}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Costs": {"Min": 1080, "Stable": 1372, "Max": 1472}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 2, "Costs": {"Min": 1738, "Stable": 1738, "Max": 1738}}, {"Name": "ÂÁºÏ½ğ", "Amount": 7, "Costs": {"Min": 2961, "Stable": 3087, "Max": 3115}}, {"Name": "îÑºÏ½ğ", "Amount": 1, "Costs": {"Min": 805, "Stable": 805, "Max": 813}}], "Costs": {"Min": 11384, "Stable": 11802, "Max": 11978}, "Revenue": {"Min": -1038, "Stable": -862, "Max": -424}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 1, "Prices": {"Min": 869, "Stable": 869, "Max": 869}, "Materials": [{"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Costs": {"Min": 1080, "Stable": 1372, "Max": 1472}}, {"Name": "¸ß´¿¶ÈÁò»Ç", "Amount": 2, "Costs": {"Min": 400, "Stable": 400, "Max": 400}}], "Costs": {"Min": 1480, "Stable": 1772, "Max": 1872}, "Revenue": {"Min": -1003, "Stable": -903, "Max": -611}}, {"Name": "¸ß´¿¶ÈÁò»Ç", "Amount": 1, "Prices": {"Min": 200, "Stable": 200, "Max": 200}, "Materials": [{"Name": "¾Æ¾«", "Amount": 2, "Costs": {"Min": 234, "Stable": 236, "Max": 242}}, {"Name": "¾«ÖÆÏõÊ¯", "Amount": 6, "Costs": {"Min": 882, "Stable": 882, "Max": 882}}], "Costs": {"Min": 1116, "Stable": 1118, "Max": 1124}, "Revenue": {"Min": -924, "Stable": -918, "Max": -916}}, {"Name": "±¬ÆÆÊÖÀ×", "Amount": 2, "Prices": {"Min": 420, "Stable": 420, "Max": 420}, "Materials": [{"Name": "ºÚ»ğÒ©", "Amount": 2, "Costs": {"Min": 798, "Stable": 986, "Max": 1024}}, {"Name": "ËÜÁÏ", "Amount": 2, "Costs": {"Min": 356, "Stable": 358, "Max": 370}}], "Costs": {"Min": 1154, "Stable": 1344, "Max": 1394}, "Revenue": {"Min": -974, "Stable": -924, "Max": -734}}, {"Name": "µç×ÓĞ¾Æ¬", "Amount": 2, "Prices": {"Min": 400, "Stable": 400, "Max": 400}, "Materials": [{"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 2, "Costs": {"Min": 260, "Stable": 260, "Max": 260}}, {"Name": "¹èÑÒ", "Amount": 5, "Costs": {"Min": 360, "Stable": 370, "Max": 380}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Costs": {"Min": 846, "Stable": 882, "Max": 890}}], "Costs": {"Min": 1466, "Stable": 1512, "Max": 1530}, "Revenue": {"Min": -1130, "Stable": -1112, "Max": -1066}}, {"Name": "Ç¿»¯·Àµ¯ÌÕ´É", "Amount": 1, "Prices": {"Min": 510, "Stable": 543, "Max": 565}, "Materials": [{"Name": "¸´ºÏ·Àµ¯ÌÕ´É", "Amount": 3, "Costs": {"Min": 747, "Stable": 747, "Max": 840}}, {"Name": "²£Á§", "Amount": 5, "Costs": {"Min": 235, "Stable": 240, "Max": 270}}, {"Name": "¾«ÖÆÏõÊ¯", "Amount": 5, "Costs": {"Min": 735, "Stable": 735, "Max": 735}}], "Costs": {"Min": 1717, "Stable": 1722, "Max": 1845}, "Revenue": {"Min": -1335, "Stable": -1179, "Max": -1152}}, {"Name": "È«Ï¢Ãé¾ß", "Amount": 1, "Prices": {"Min": 850, "Stable": 991, "Max": 991}, "Materials": [{"Name": "¸Ö»¯¾µÆ¬", "Amount": 2, "Costs": {"Min": 376, "Stable": 390, "Max": 406}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 2, "Costs": {"Min": 260, "Stable": 260, "Max": 260}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Costs": {"Min": 1610, "Stable": 1610, "Max": 1626}}], "Costs": {"Min": 2246, "Stable": 2260, "Max": 2292}, "Revenue": {"Min": -1442, "Stable": -1269, "Max": -1255}}, {"Name": "Ç¿»¯Í·¿ø", "Amount": 1, "Prices": {"Min": 2454, "Stable": 2488, "Max": 2488}, "Materials": [{"Name": "¸´ºÏÍ·¿ø", "Amount": 1, "Costs": {"Min": 667, "Stable": 706, "Max": 706}}, {"Name": "Ç¿»¯·Àµ¯ÌÕ´É", "Amount": 1, "Costs": {"Min": 510, "Stable": 543, "Max": 565}}, {"Name": "¸Ö»¯¾µÆ¬", "Amount": 10, "Costs": {"Min": 1880, "Stable": 1950, "Max": 2030}}, {"Name": "ÂÁºÏ½ğ", "Amount": 1, "Costs": {"Min": 423, "Stable": 441, "Max": 445}}, {"Name": "ÄáÁú²¼", "Amount": 2, "Costs": {"Min": 300, "Stable": 300, "Max": 300}}], "Costs": {"Min": 3780, "Stable": 3940, "Max": 4046}, "Revenue": {"Min": -1592, "Stable": -1452, "Max": -1292}}, {"Name": "ÖĞ¼¶»¤¼×ĞŞ»¤", "Amount": 5, "Prices": {"Min": 3000, "Stable": 3000, "Max": 3250}, "Materials": [{"Name": "Ç¿»¯Õ½Êõ»¤¼×", "Amount": 1, "Costs": {"Min": 4398, "Stable": 4474, "Max": 4474}}], "Costs": {"Min": 4398, "Stable": 4474, "Max": 4474}, "Revenue": {"Min": -1474, "Stable": -1474, "Max": -1148}}, {"Name": "ÖĞ¼¶Í·¿øĞŞ»¤", "Amount": 5, "Prices": {"Min": 1000, "Stable": 1000, "Max": 1070}, "Materials": [{"Name": "Ç¿»¯Í·¿ø", "Amount": 1, "Costs": {"Min": 2454, "Stable": 2488, "Max": 2488}}], "Costs": {"Min": 2454, "Stable": 2488, "Max": 2488}, "Revenue": {"Min": -1488, "Stable": -1488, "Max": -1384}}, {"Name": "ºìµãÃé¾ß", "Amount": 1, "Prices": {"Min": 1888, "Stable": 1921, "Max": 1921}, "Materials": [{"Name": "¸Ö»¯¾µÆ¬", "Amount": 6, "Costs": {"Min": 1128, "Stable": 1170, "Max": 1218}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 6, "Costs": {"Min": 780, "Stable": 780, "Max": 780}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Costs": {"Min": 1610, "Stable": 1610, "Max": 1626}}], "Costs": {"Min": 3518, "Stable": 3560, "Max": 3624}, "Revenue": {"Min": -1736, "Stable": -1639, "Max": -1597}}, {"Name": "¹ıÔØ¼¤ËØ", "Amount": 1, "Prices": {"Min": 898, "Stable": 898, "Max": 903}, "Materials": [{"Name": "Ç¿ĞÄ¼Á", "Amount": 1, "Costs": {"Min": 2048, "Stable": 2083, "Max": 2096}}, {"Name": "²£Á§", "Amount": 4, "Costs": {"Min": 188, "Stable": 192, "Max": 216}}, {"Name": "¾ú¹½ÌáÈ¡Òº", "Amount": 4, "Costs": {"Min": 132, "Stable": 136, "Max": 148}}, {"Name": "¸ß´¿¶ÈÁò»Ç", "Amount": 1, "Costs": {"Min": 200, "Stable": 200, "Max": 200}}], "Costs": {"Min": 2568, "Stable": 2611, "Max": 2660}, "Revenue": {"Min": -1762, "Stable": -1713, "Max": -1665}}, {"Name": "7.62´©¼×µ¯", "Amount": 20, "Prices": {"Min": 4800, "Stable": 4800, "Max": 4800}, "Materials": [{"Name": "7.62¿Õ¼âµ¯", "Amount": 20, "Costs": {"Min": 1760, "Stable": 1760, "Max": 1760}}, {"Name": "ºÚ»ğÒ©", "Amount": 3, "Costs": {"Min": 1197, "Stable": 1479, "Max": 1536}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 3, "Costs": {"Min": 1620, "Stable": 2058, "Max": 2208}}, {"Name": "ÂÁºÏ½ğ", "Amount": 3, "Costs": {"Min": 1269, "Stable": 1323, "Max": 1335}}], "Costs": {"Min": 5846, "Stable": 6620, "Max": 6839}, "Revenue": {"Min": -2039, "Stable": -1820, "Max": -1046}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 2, "Prices": {"Min": 1080, "Stable": 1372, "Max": 1472}, "Materials": [{"Name": "ºÚ»ğÒ©", "Amount": 5, "Costs": {"Min": 1995, "Stable": 2465, "Max": 2560}}, {"Name": "¾«ÖÆÏõÊ¯", "Amount": 5, "Costs": {"Min": 735, "Stable": 735, "Max": 735}}], "Costs": {"Min": 2730, "Stable": 3200, "Max": 3295}, "Revenue": {"Min": -2215, "Stable": -1828, "Max": -1258}}, {"Name": "12¿Ú¾¶Â¹µ¯", "Amount": 10, "Prices": {"Min": 5360, "Stable": 5360, "Max": 5380}, "Materials": [{"Name": "12¿Ú¾¶Äñµ¯", "Amount": 10, "Costs": {"Min": 1890, "Stable": 1910, "Max": 1930}}, {"Name": "ºÚ»ğÒ©", "Amount": 4, "Costs": {"Min": 1596, "Stable": 1972, "Max": 2048}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 4, "Costs": {"Min": 2160, "Stable": 2744, "Max": 2944}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Costs": {"Min": 846, "Stable": 882, "Max": 890}}], "Costs": {"Min": 6492, "Stable": 7508, "Max": 7812}, "Revenue": {"Min": -2452, "Stable": -2148, "Max": -1112}}, {"Name": "9mmÈ«½ğÊôµ¯", "Amount": 20, "Prices": {"Min": 7880, "Stable": 7880, "Max": 7880}, "Materials": [{"Name": "9mm´©¼×µ¯", "Amount": 20, "Costs": {"Min": 4920, "Stable": 4920, "Max": 4920}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 1, "Costs": {"Min": 540, "Stable": 686, "Max": 736}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 2, "Costs": {"Min": 1738, "Stable": 1738, "Max": 1738}}, {"Name": "ÂÁºÏ½ğ", "Amount": 5, "Costs": {"Min": 2115, "Stable": 2205, "Max": 2225}}, {"Name": "îÑºÏ½ğ", "Amount": 1, "Costs": {"Min": 805, "Stable": 805, "Max": 813}}], "Costs": {"Min": 10118, "Stable": 10354, "Max": 10432}, "Revenue": {"Min": -2552, "Stable": -2474, "Max": -2238}}, {"Name": "8±¶¾µ", "Amount": 1, "Prices": {"Min": 1042, "Stable": 1057, "Max": 1057}, "Materials": [{"Name": "¸Ö»¯¾µÆ¬", "Amount": 8, "Costs": {"Min": 1504, "Stable": 1560, "Max": 1624}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 4, "Costs": {"Min": 520, "Stable": 520, "Max": 520}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Costs": {"Min": 1610, "Stable": 1610, "Max": 1626}}], "Costs": {"Min": 3634, "Stable": 3690, "Max": 3770}, "Revenue": {"Min": -2728, "Stable": -2633, "Max": -2577}}, {"Name": "Õ½Êõ±³°ü", "Amount": 1, "Prices": {"Min": 578, "Stable": 578, "Max": 578}, "Materials": [{"Name": "Ë«¼ç±³°ü", "Amount": 1, "Costs": {"Min": 338, "Stable": 338, "Max": 338}}, {"Name": "Ïğ½º", "Amount": 8, "Costs": {"Min": 536, "Stable": 536, "Max": 536}}, {"Name": "ÄáÁú²¼", "Amount": 4, "Costs": {"Min": 600, "Stable": 600, "Max": 600}}, {"Name": "ÆáÆ¤¸ï", "Amount": 3, "Costs": {"Min": 450, "Stable": 450, "Max": 480}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 3, "Costs": {"Min": 1320, "Stable": 1320, "Max": 1332}}], "Costs": {"Min": 3244, "Stable": 3244, "Max": 3286}, "Revenue": {"Min": -2708, "Stable": -2666, "Max": -2666}}, {"Name": "2±¶¾µ", "Amount": 1, "Prices": {"Min": 324, "Stable": 324, "Max": 324}, "Materials": [{"Name": "¸Ö»¯¾µÆ¬", "Amount": 8, "Costs": {"Min": 1504, "Stable": 1560, "Max": 1624}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 8, "Costs": {"Min": 1040, "Stable": 1040, "Max": 1040}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 10, "Costs": {"Min": 620, "Stable": 620, "Max": 650}}], "Costs": {"Min": 3164, "Stable": 3220, "Max": 3314}, "Revenue": {"Min": -2990, "Stable": -2896, "Max": -2840}}, {"Name": "Õ½Êõ¶ÌÑ¥", "Amount": 1, "Prices": {"Min": 890, "Stable": 893, "Max": 893}, "Materials": [{"Name": "Ô½Ò°¶ÌÑ¥", "Amount": 1, "Costs": {"Min": 283, "Stable": 290, "Max": 290}}, {"Name": "Ïğ½º", "Amount": 2, "Costs": {"Min": 134, "Stable": 134, "Max": 134}}, {"Name": "ÆáÆ¤¸ï", "Amount": 5, "Costs": {"Min": 750, "Stable": 750, "Max": 800}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 6, "Costs": {"Min": 2640, "Stable": 2640, "Max": 2664}}], "Costs": {"Min": 3807, "Stable": 3814, "Max": 3888}, "Revenue": {"Min": -2998, "Stable": -2921, "Max": -2914}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Prices": {"Min": 1610, "Stable": 1610, "Max": 1626}, "Materials": [{"Name": "¾«ÖÆÏõÊ¯", "Amount": 8, "Costs": {"Min": 1176, "Stable": 1176, "Max": 1176}}, {"Name": "ÂÁºÏ½ğ", "Amount": 8, "Costs": {"Min": 3384, "Stable": 3528, "Max": 3560}}], "Costs": {"Min": 4560, "Stable": 4704, "Max": 4736}, "Revenue": {"Min": -3126, "Stable": -3094, "Max": -2934}}, {"Name": "×¨Òµ±³°ü", "Amount": 1, "Prices": {"Min": 1999, "Stable": 2052, "Max": 2052}, "Materials": [{"Name": "Õ½Êõ±³°ü", "Amount": 1, "Costs": {"Min": 578, "Stable": 578, "Max": 578}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 4, "Costs": {"Min": 520, "Stable": 520, "Max": 520}}, {"Name": "·ÀË®²¼", "Amount": 3, "Costs": {"Min": 1830, "Stable": 1830, "Max": 1833}}, {"Name": "·­Ã«Æ¤¸ï", "Amount": 1, "Costs": {"Min": 777, "Stable": 777, "Max": 791}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 1, "Costs": {"Min": 1626, "Stable": 1727, "Max": 1766}}], "Costs": {"Min": 5331, "Stable": 5432, "Max": 5488}, "Revenue": {"Min": -3489, "Stable": -3380, "Max": -3279}}, {"Name": "È«Ãæ¸Ä×°×éºÏ", "Amount": 1, "Prices": {"Min": 6466, "Stable": 6889, "Max": 7418}, "Materials": [{"Name": "½üÉí³åÍ»×éºÏ", "Amount": 1, "Costs": {"Min": 2940, "Stable": 2979, "Max": 3035}}, {"Name": "¾Ñ»÷´óÊ¦×éºÏ", "Amount": 1, "Costs": {"Min": 2775, "Stable": 2966, "Max": 3262}}, {"Name": "Ë«µ¼¹ì×éºÏ", "Amount": 1, "Costs": {"Min": 2763, "Stable": 2782, "Max": 3064}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 1, "Costs": {"Min": 1626, "Stable": 1727, "Max": 1766}}], "Costs": {"Min": 10104, "Stable": 10454, "Max": 11127}, "Revenue": {"Min": -4661, "Stable": -3565, "Max": -2686}}, {"Name": "4±¶¾µ", "Amount": 1, "Prices": {"Min": 923, "Stable": 1133, "Max": 1133}, "Materials": [{"Name": "¸Ö»¯¾µÆ¬", "Amount": 8, "Costs": {"Min": 1504, "Stable": 1560, "Max": 1624}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 8, "Costs": {"Min": 1040, "Stable": 1040, "Max": 1040}}, {"Name": "ÂÁºÏ½ğ", "Amount": 5, "Costs": {"Min": 2115, "Stable": 2205, "Max": 2225}}], "Costs": {"Min": 4659, "Stable": 4805, "Max": 4889}, "Revenue": {"Min": -3966, "Stable": -3672, "Max": -3526}}, {"Name": "¸ÄÁ¼ÎÕ°Ñ", "Amount": 1, "Prices": {"Min": 500, "Stable": 691, "Max": 691}, "Materials": [{"Name": "Í¨ÓÃÎÕ°Ñ", "Amount": 1, "Costs": {"Min": 250, "Stable": 298, "Max": 298}}, {"Name": "Ïğ½º", "Amount": 8, "Costs": {"Min": 536, "Stable": 536, "Max": 536}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 9, "Costs": {"Min": 3960, "Stable": 3960, "Max": 3996}}], "Costs": {"Min": 4746, "Stable": 4794, "Max": 4830}, "Revenue": {"Min": -4330, "Stable": -4103, "Max": -4055}}, {"Name": "¾«×¼Ç¹ÍĞ", "Amount": 1, "Prices": {"Min": 899, "Stable": 1168, "Max": 1168}, "Materials": [{"Name": "Í¨ÓÃÇ¹ÍĞ", "Amount": 1, "Costs": {"Min": 900, "Stable": 922, "Max": 922}}, {"Name": "Ïğ½º", "Amount": 8, "Costs": {"Min": 536, "Stable": 536, "Max": 536}}, {"Name": "Ì¼ÏËÎ¬", "Amount": 9, "Costs": {"Min": 3960, "Stable": 3960, "Max": 3996}}], "Costs": {"Min": 5396, "Stable": 5418, "Max": 5454}, "Revenue": {"Min": -4555, "Stable": -4250, "Max": -4228}}, {"Name": "¸ß¼¶»¤¼×ĞŞ»¤", "Amount": 5, "Prices": {"Min": 15000, "Stable": 16330, "Max": 16970}, "Materials": [{"Name": "Éñ¶ÜÕ½Êõ»¤¼×", "Amount": 1, "Costs": {"Min": 20332, "Stable": 20832, "Max": 20832}}], "Costs": {"Min": 20332, "Stable": 20832, "Max": 20832}, "Revenue": {"Min": -5832, "Stable": -4502, "Max": -3362}}, {"Name": "¸´ºÏÕ½Êõ»¤¼×", "Amount": 1, "Prices": {"Min": 1296, "Stable": 1340, "Max": 1340}, "Materials": [{"Name": "ÌØÖÖÕ½Êõ±³ĞÄ", "Amount": 1, "Costs": {"Min": 998, "Stable": 1036, "Max": 1036}}, {"Name": "¸´ºÏ·Àµ¯ÌÕ´É", "Amount": 10, "Costs": {"Min": 2490, "Stable": 2490, "Max": 2800}}, {"Name": "Õ³Ä¤¸ï", "Amount": 12, "Costs": {"Min": 1320, "Stable": 1320, "Max": 1392}}, {"Name": "²£Á§ÏËÎ¬", "Amount": 12, "Costs": {"Min": 1080, "Stable": 1080, "Max": 1128}}], "Costs": {"Min": 5888, "Stable": 5926, "Max": 6356}, "Revenue": {"Min": -5060, "Stable": -4586, "Max": -4548}}, {"Name": "¸´ºÏÍ·¿ø", "Amount": 1, "Prices": {"Min": 667, "Stable": 706, "Max": 706}, "Materials": [{"Name": "Õ½ÊõÃæÕÖ", "Amount": 1, "Costs": {"Min": 703, "Stable": 704, "Max": 704}}, {"Name": "¸´ºÏ·Àµ¯ÌÕ´É", "Amount": 6, "Costs": {"Min": 1494, "Stable": 1494, "Max": 1680}}, {"Name": "¸Ö»¯¾µÆ¬", "Amount": 10, "Costs": {"Min": 1880, "Stable": 1950, "Max": 2030}}, {"Name": "ÌØÖÖ¸Ö", "Amount": 6, "Costs": {"Min": 372, "Stable": 372, "Max": 390}}, {"Name": "ÃŞ²¼", "Amount": 6, "Costs": {"Min": 882, "Stable": 894, "Max": 948}}], "Costs": {"Min": 5331, "Stable": 5414, "Max": 5752}, "Revenue": {"Min": -5085, "Stable": -4708, "Max": -4625}}, {"Name": "7.62È«½ğÊôµ¯", "Amount": 20, "Prices": {"Min": 9960, "Stable": 9960, "Max": 9960}, "Materials": [{"Name": "7.62´©¼×µ¯", "Amount": 20, "Costs": {"Min": 4800, "Stable": 4800, "Max": 4800}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 3, "Costs": {"Min": 1620, "Stable": 2058, "Max": 2208}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 3, "Costs": {"Min": 2607, "Stable": 2607, "Max": 2607}}, {"Name": "ÂÁºÏ½ğ", "Amount": 7, "Costs": {"Min": 2961, "Stable": 3087, "Max": 3115}}, {"Name": "îÑºÏ½ğ", "Amount": 3, "Costs": {"Min": 2415, "Stable": 2415, "Max": 2439}}], "Costs": {"Min": 14403, "Stable": 14967, "Max": 15169}, "Revenue": {"Min": -5209, "Stable": -5007, "Max": -4443}}, {"Name": "4±¶²àÃé¾ß", "Amount": 1, "Prices": {"Min": 1201, "Stable": 1201, "Max": 1201}, "Materials": [{"Name": "ºìµãÃé¾ß", "Amount": 1, "Costs": {"Min": 1888, "Stable": 1921, "Max": 1921}}, {"Name": "4±¶¾µ", "Amount": 1, "Costs": {"Min": 923, "Stable": 1133, "Max": 1133}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 2, "Costs": {"Min": 260, "Stable": 260, "Max": 260}}, {"Name": "·À»¯Í¿²ã²¼", "Amount": 1, "Costs": {"Min": 2500, "Stable": 2500, "Max": 2572}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 1, "Costs": {"Min": 1626, "Stable": 1727, "Max": 1766}}], "Costs": {"Min": 7197, "Stable": 7541, "Max": 7652}, "Revenue": {"Min": -6451, "Stable": -6340, "Max": -5996}}, {"Name": "×¨¼ÒÕ½Ñ¥", "Amount": 1, "Prices": {"Min": 1928, "Stable": 1928, "Max": 1928}, "Materials": [{"Name": "Õ½Êõ¶ÌÑ¥", "Amount": 1, "Costs": {"Min": 890, "Stable": 893, "Max": 893}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 5, "Costs": {"Min": 650, "Stable": 650, "Max": 650}}, {"Name": "·­Ã«Æ¤¸ï", "Amount": 2, "Costs": {"Min": 1554, "Stable": 1554, "Max": 1582}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 3, "Costs": {"Min": 4878, "Stable": 5181, "Max": 5298}}], "Costs": {"Min": 7972, "Stable": 8278, "Max": 8423}, "Revenue": {"Min": -6495, "Stable": -6350, "Max": -6044}}, {"Name": "12¿Ú¾¶¼ıµ¯", "Amount": 10, "Prices": {"Min": 9970, "Stable": 9970, "Max": 10060}, "Materials": [{"Name": "12¿Ú¾¶Â¹µ¯", "Amount": 10, "Costs": {"Min": 5360, "Stable": 5360, "Max": 5380}}, {"Name": "ÎŞÑÌ»ğÒ©", "Amount": 4, "Costs": {"Min": 2160, "Stable": 2744, "Max": 2944}}, {"Name": "°¢ÂíÍĞ»ğÒ©", "Amount": 4, "Costs": {"Min": 3476, "Stable": 3476, "Max": 3476}}, {"Name": "ÂÁºÏ½ğ", "Amount": 9, "Costs": {"Min": 3807, "Stable": 3969, "Max": 4005}}, {"Name": "îÑºÏ½ğ", "Amount": 2, "Costs": {"Min": 1610, "Stable": 1610, "Max": 1626}}], "Costs": {"Min": 16413, "Stable": 17159, "Max": 17431}, "Revenue": {"Min": -7461, "Stable": -7189, "Max": -6353}}, {"Name": "8±¶²àÃé¾ß", "Amount": 1, "Prices": {"Min": 1505, "Stable": 1505, "Max": 1505}, "Materials": [{"Name": "ºìµãÃé¾ß", "Amount": 1, "Costs": {"Min": 1888, "Stable": 1921, "Max": 1921}}, {"Name": "8±¶¾µ", "Amount": 1, "Costs": {"Min": 1042, "Stable": 1057, "Max": 1057}}, {"Name": "ÌìÈ»Ê÷Ö¬", "Amount": 3, "Costs": {"Min": 390, "Stable": 390, "Max": 390}}, {"Name": "ÂÁºÏ½ğ", "Amount": 2, "Costs": {"Min": 846, "Stable": 882, "Max": 890}}, {"Name": "¶¨ĞÍÈËÔì¸ï", "Amount": 1, "Costs": {"Min": 2500, "Stable": 2500, "Max": 2509}}, {"Name": "¿­·òÀ­ÏËÎ¬", "Amount": 2, "Costs": {"Min": 3252, "Stable": 3454, "Max": 3532}}], "Costs": {"Min": 9918, "Stable": 10204, "Max": 10299}, "Revenue": {"Min": -8794, "Stable": -8699, "Max": -8413}}]
+[
+    {
+        "Name": "é«˜çº§å¤´ç›”ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 14185,
+            "Stable": 14185,
+            "Max": 14205
+        },
+        "Materials": [
+            {
+                "Name": "ç¥ç›¾å¤´ç›”",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 9999,
+                    "Stable": 10397,
+                    "Max": 10397
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9999,
+            "Stable": 10397,
+            "Max": 10397
+        },
+        "Revenue": {
+            "Min": 3788,
+            "Stable": 3788,
+            "Max": 4206
+        }
+    },
+    {
+        "Name": "ç¥ç›¾æˆ˜æœ¯æŠ¤ç”²",
+        "Amount": 1,
+        "Prices": {
+            "Min": 20332,
+            "Stable": 20832,
+            "Max": 20832
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºåŒ–æˆ˜æœ¯æŠ¤ç”²",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 4398,
+                    "Stable": 4474,
+                    "Max": 4474
+                }
+            },
+            {
+                "Name": "æ™¶é¡»ç¡…é’¢",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 5200,
+                    "Stable": 5446,
+                    "Max": 5590
+                }
+            },
+            {
+                "Name": "ç¿»æ¯›çš®é©",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1554,
+                    "Stable": 1554,
+                    "Max": 1582
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 1760,
+                    "Stable": 1760,
+                    "Max": 1776
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 4878,
+                    "Stable": 5181,
+                    "Max": 5298
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 17790,
+            "Stable": 18415,
+            "Max": 18720
+        },
+        "Revenue": {
+            "Min": 1612,
+            "Stable": 2417,
+            "Max": 3042
+        }
+    },
+    {
+        "Name": "ç¥ç›¾å¤´ç›”",
+        "Amount": 1,
+        "Prices": {
+            "Min": 9999,
+            "Stable": 10397,
+            "Max": 10397
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºåŒ–å¤´ç›”",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2454,
+                    "Stable": 2488,
+                    "Max": 2488
+                }
+            },
+            {
+                "Name": "æ™¶é¡»ç¡…é’¢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2600,
+                    "Stable": 2723,
+                    "Max": 2795
+                }
+            },
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1880,
+                    "Stable": 1950,
+                    "Max": 2030
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 805,
+                    "Stable": 805,
+                    "Max": 813
+                }
+            },
+            {
+                "Name": "é˜²æ°´å¸ƒ",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1220,
+                    "Stable": 1220,
+                    "Max": 1222
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 8959,
+            "Stable": 9186,
+            "Max": 9348
+        },
+        "Revenue": {
+            "Min": 651,
+            "Stable": 1211,
+            "Max": 1438
+        }
+    },
+    {
+        "Name": "è¿‘èº«å†²çªç»„åˆ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2940,
+            "Stable": 2979,
+            "Max": 3035
+        },
+        "Materials": [
+            {
+                "Name": "æ¡æŠŠåŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 697,
+                    "Stable": 698,
+                    "Max": 772
+                }
+            },
+            {
+                "Name": "æªå£åŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 550,
+                    "Stable": 663,
+                    "Max": 2025
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 440,
+                    "Stable": 440,
+                    "Max": 444
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1687,
+            "Stable": 1801,
+            "Max": 3241
+        },
+        "Revenue": {
+            "Min": -301,
+            "Stable": 1178,
+            "Max": 1348
+        }
+    },
+    {
+        "Name": "12.7å…¨é‡‘å±å¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 17950,
+            "Stable": 17990,
+            "Max": 17990
+        },
+        "Materials": [
+            {
+                "Name": "12.7ç©¿ç”²å¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 5850,
+                    "Stable": 5850,
+                    "Max": 5860
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 1596,
+                    "Stable": 1972,
+                    "Max": 2048
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1372,
+                    "Max": 1472
+                }
+            },
+            {
+                "Name": "é˜¿é©¬æ‰˜ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2607,
+                    "Stable": 2607,
+                    "Max": 2607
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 3384,
+                    "Stable": 3528,
+                    "Max": 3560
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1610,
+                    "Stable": 1610,
+                    "Max": 1626
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 16127,
+            "Stable": 16939,
+            "Max": 17173
+        },
+        "Revenue": {
+            "Min": 777,
+            "Stable": 1051,
+            "Max": 1863
+        }
+    },
+    {
+        "Name": "9mmç©¿ç”²å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 4920,
+            "Stable": 4920,
+            "Max": 4920
+        },
+        "Materials": [
+            {
+                "Name": "9mmç©ºå°–å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 1580,
+                    "Stable": 1580,
+                    "Max": 1580
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 399,
+                    "Stable": 493,
+                    "Max": 512
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1372,
+                    "Max": 1472
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 423,
+                    "Stable": 441,
+                    "Max": 445
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3482,
+            "Stable": 3886,
+            "Max": 4009
+        },
+        "Revenue": {
+            "Min": 911,
+            "Stable": 1034,
+            "Max": 1438
+        }
+    },
+    {
+        "Name": "ç‹™å‡»å¤§å¸ˆç»„åˆ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2775,
+            "Stable": 2966,
+            "Max": 3262
+        },
+        "Materials": [
+            {
+                "Name": "ç„å…·åŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 766,
+                    "Stable": 849,
+                    "Max": 4919
+                }
+            },
+            {
+                "Name": "æªå£åŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 550,
+                    "Stable": 663,
+                    "Max": 2025
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 440,
+                    "Stable": 440,
+                    "Max": 444
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1756,
+            "Stable": 1952,
+            "Max": 7388
+        },
+        "Revenue": {
+            "Min": -4613,
+            "Stable": 1014,
+            "Max": 1506
+        }
+    },
+    {
+        "Name": "æ€¥æ•‘åŒ…",
+        "Amount": 5,
+        "Prices": {
+            "Min": 2430,
+            "Stable": 2430,
+            "Max": 2430
+        },
+        "Materials": [
+            {
+                "Name": "ç»·å¸¦",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 250,
+                    "Stable": 250,
+                    "Max": 250
+                }
+            },
+            {
+                "Name": "é…’ç²¾",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 585,
+                    "Stable": 590,
+                    "Max": 605
+                }
+            },
+            {
+                "Name": "æ£‰å¸ƒ",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 735,
+                    "Stable": 745,
+                    "Max": 790
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1570,
+            "Stable": 1585,
+            "Max": 1645
+        },
+        "Revenue": {
+            "Min": 785,
+            "Stable": 845,
+            "Max": 860
+        }
+    },
+    {
+        "Name": "5.56ç©¿ç”²å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 4800,
+            "Stable": 4800,
+            "Max": 4840
+        },
+        "Materials": [
+            {
+                "Name": "5.56ç©ºå°–å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 1200,
+                    "Stable": 1200,
+                    "Max": 1200
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 798,
+                    "Stable": 986,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1372,
+                    "Max": 1472
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 423,
+                    "Stable": 441,
+                    "Max": 445
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3501,
+            "Stable": 3999,
+            "Max": 4141
+        },
+        "Revenue": {
+            "Min": 659,
+            "Stable": 801,
+            "Max": 1339
+        }
+    },
+    {
+        "Name": "åŒå¯¼è½¨ç»„åˆ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2763,
+            "Stable": 2782,
+            "Max": 3064
+        },
+        "Materials": [
+            {
+                "Name": "ç„å…·åŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 766,
+                    "Stable": 849,
+                    "Max": 4919
+                }
+            },
+            {
+                "Name": "æ¡æŠŠåŠ è£…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 697,
+                    "Stable": 698,
+                    "Max": 772
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 440,
+                    "Stable": 440,
+                    "Max": 444
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1903,
+            "Stable": 1987,
+            "Max": 6135
+        },
+        "Revenue": {
+            "Min": -3372,
+            "Stable": 795,
+            "Max": 1161
+        }
+    },
+    {
+        "Name": "åˆçº§æŠ¤ç”²ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 2125,
+            "Stable": 2130,
+            "Max": 2160
+        },
+        "Materials": [
+            {
+                "Name": "å¤åˆæˆ˜æœ¯æŠ¤ç”²",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1296,
+                    "Stable": 1340,
+                    "Max": 1340
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1296,
+            "Stable": 1340,
+            "Max": 1340
+        },
+        "Revenue": {
+            "Min": 785,
+            "Stable": 790,
+            "Max": 864
+        }
+    },
+    {
+        "Name": "åˆçº§å¤´ç›”ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 1340,
+            "Stable": 1340,
+            "Max": 1340
+        },
+        "Materials": [
+            {
+                "Name": "å¤åˆå¤´ç›”",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 667,
+                    "Stable": 706,
+                    "Max": 706
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 667,
+            "Stable": 706,
+            "Max": 706
+        },
+        "Revenue": {
+            "Min": 634,
+            "Stable": 634,
+            "Max": 673
+        }
+    },
+    {
+        "Name": "æŠ•æ·é›·è¾¾",
+        "Amount": 2,
+        "Prices": {
+            "Min": 3330,
+            "Stable": 3500,
+            "Max": 3524
+        },
+        "Materials": [
+            {
+                "Name": "ç”µå­èŠ¯ç‰‡",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 200,
+                    "Stable": 200,
+                    "Max": 200
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 846,
+                    "Stable": 882,
+                    "Max": 890
+                }
+            },
+            {
+                "Name": "å¡‘æ–™",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1780,
+                    "Stable": 1790,
+                    "Max": 1850
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2826,
+            "Stable": 2872,
+            "Max": 2940
+        },
+        "Revenue": {
+            "Min": 390,
+            "Stable": 628,
+            "Max": 698
+        }
+    },
+    {
+        "Name": "12.7ç©¿ç”²å¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 5850,
+            "Stable": 5850,
+            "Max": 5860
+        },
+        "Materials": [
+            {
+                "Name": "12.7ç©ºå°–å¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 950,
+                    "Stable": 950,
+                    "Max": 1000
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1197,
+                    "Stable": 1479,
+                    "Max": 1536
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1620,
+                    "Stable": 2058,
+                    "Max": 2208
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 846,
+                    "Stable": 882,
+                    "Max": 890
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4613,
+            "Stable": 5369,
+            "Max": 5634
+        },
+        "Revenue": {
+            "Min": 216,
+            "Stable": 481,
+            "Max": 1247
+        }
+    },
+    {
+        "Name": "ç»¿æ¼†",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2607,
+            "Stable": 2607,
+            "Max": 2607
+        },
+        "Materials": [
+            {
+                "Name": "é»„æ¼†",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1199,
+                    "Stable": 1199,
+                    "Max": 1247
+                }
+            },
+            {
+                "Name": "é’æ¼†",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1088,
+                    "Stable": 1097,
+                    "Max": 1099
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2287,
+            "Stable": 2296,
+            "Max": 2346
+        },
+        "Revenue": {
+            "Min": 261,
+            "Stable": 311,
+            "Max": 320
+        }
+    },
+    {
+        "Name": "æ­¢ç—›è¯",
+        "Amount": 2,
+        "Prices": {
+            "Min": 350,
+            "Stable": 352,
+            "Max": 354
+        },
+        "Materials": [
+            {
+                "Name": "éº»é†‰å‰‚",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 114,
+                    "Stable": 114,
+                    "Max": 117
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 114,
+            "Stable": 114,
+            "Max": 117
+        },
+        "Revenue": {
+            "Min": 233,
+            "Stable": 238,
+            "Max": 240
+        }
+    },
+    {
+        "Name": "æ™¶é¡»ç¡…é’¢",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2600,
+            "Stable": 2723,
+            "Max": 2795
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºåŒ–é˜²å¼¹é™¶ç“·",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1530,
+                    "Stable": 1629,
+                    "Max": 1695
+                }
+            },
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 470,
+                    "Stable": 480,
+                    "Max": 540
+                }
+            },
+            {
+                "Name": "é«˜çº¯åº¦ç¡«ç£º",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 400,
+                    "Stable": 400,
+                    "Max": 400
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2400,
+            "Stable": 2509,
+            "Max": 2635
+        },
+        "Revenue": {
+            "Min": -35,
+            "Stable": 214,
+            "Max": 395
+        }
+    },
+    {
+        "Name": "9mmç©ºå°–å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 1580,
+            "Stable": 1580,
+            "Max": 1580
+        },
+        "Materials": [
+            {
+                "Name": "9mmæ™®é€šå¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 320,
+                    "Stable": 320,
+                    "Max": 320
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 798,
+                    "Stable": 986,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 62,
+                    "Stable": 62,
+                    "Max": 65
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1180,
+            "Stable": 1368,
+            "Max": 1409
+        },
+        "Revenue": {
+            "Min": 171,
+            "Stable": 212,
+            "Max": 400
+        }
+    },
+    {
+        "Name": "ç¿»æ¯›çš®é©",
+        "Amount": 1,
+        "Prices": {
+            "Min": 777,
+            "Stable": 777,
+            "Max": 791
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 67,
+                    "Stable": 67,
+                    "Max": 67
+                }
+            },
+            {
+                "Name": "æ¼†çš®é©",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 600,
+                    "Stable": 600,
+                    "Max": 640
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 667,
+            "Stable": 667,
+            "Max": 707
+        },
+        "Revenue": {
+            "Min": 70,
+            "Stable": 110,
+            "Max": 124
+        }
+    },
+    {
+        "Name": "é’¢åŒ–é•œç‰‡",
+        "Amount": 2,
+        "Prices": {
+            "Min": 376,
+            "Stable": 390,
+            "Max": 406
+        },
+        "Materials": [
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 282,
+                    "Stable": 288,
+                    "Max": 324
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 62,
+                    "Stable": 62,
+                    "Max": 65
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 344,
+            "Stable": 350,
+            "Max": 389
+        },
+        "Revenue": {
+            "Min": -13,
+            "Stable": 40,
+            "Max": 62
+        }
+    },
+    {
+        "Name": "ç¢³çº¤ç»´",
+        "Amount": 1,
+        "Prices": {
+            "Min": 440,
+            "Stable": 440,
+            "Max": 444
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 67,
+                    "Stable": 67,
+                    "Max": 67
+                }
+            },
+            {
+                "Name": "ç»ç’ƒçº¤ç»´",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 360,
+                    "Stable": 360,
+                    "Max": 376
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 427,
+            "Stable": 427,
+            "Max": 443
+        },
+        "Revenue": {
+            "Min": -3,
+            "Stable": 13,
+            "Max": 17
+        }
+    },
+    {
+        "Name": "5.56ç©ºå°–å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 1200,
+            "Stable": 1200,
+            "Max": 1200
+        },
+        "Materials": [
+            {
+                "Name": "5.56æ™®é€šå¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 180,
+                    "Stable": 180,
+                    "Max": 180
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 798,
+                    "Stable": 986,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 62,
+                    "Stable": 62,
+                    "Max": 65
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1040,
+            "Stable": 1228,
+            "Max": 1269
+        },
+        "Revenue": {
+            "Min": -69,
+            "Stable": -28,
+            "Max": 160
+        }
+    },
+    {
+        "Name": "ç‡ƒçƒ§å¼¹",
+        "Amount": 4,
+        "Prices": {
+            "Min": 640,
+            "Stable": 900,
+            "Max": 1000
+        },
+        "Materials": [
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 94,
+                    "Stable": 96,
+                    "Max": 108
+                }
+            },
+            {
+                "Name": "é…’ç²¾",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 234,
+                    "Stable": 236,
+                    "Max": 242
+                }
+            },
+            {
+                "Name": "æ£‰å¸ƒ",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 588,
+                    "Stable": 596,
+                    "Max": 632
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 916,
+            "Stable": 928,
+            "Max": 982
+        },
+        "Revenue": {
+            "Min": -342,
+            "Stable": -28,
+            "Max": 84
+        }
+    },
+    {
+        "Name": "å¤åˆé˜²å¼¹é™¶ç“·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 249,
+            "Stable": 249,
+            "Max": 280
+        },
+        "Materials": [
+            {
+                "Name": "é˜²å¼¹é™¶ç“·",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 156,
+                    "Stable": 156,
+                    "Max": 160
+                }
+            },
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 47,
+                    "Stable": 48,
+                    "Max": 54
+                }
+            },
+            {
+                "Name": "ç¡…å²©",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 72,
+                    "Stable": 74,
+                    "Max": 76
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 275,
+            "Stable": 278,
+            "Max": 290
+        },
+        "Revenue": {
+            "Min": -41,
+            "Stable": -29,
+            "Max": 5
+        }
+    },
+    {
+        "Name": "é˜²æ°´å¸ƒ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 610,
+            "Stable": 610,
+            "Max": 611
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 67,
+                    "Stable": 67,
+                    "Max": 67
+                }
+            },
+            {
+                "Name": "å°¼é¾™å¸ƒ",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 600,
+                    "Stable": 600,
+                    "Max": 600
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 667,
+            "Stable": 667,
+            "Max": 667
+        },
+        "Revenue": {
+            "Min": -57,
+            "Stable": -57,
+            "Max": -56
+        }
+    },
+    {
+        "Name": "7.62ç©ºå°–å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 1760,
+            "Stable": 1760,
+            "Max": 1760
+        },
+        "Materials": [
+            {
+                "Name": "7.62æ™®é€šå¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 160,
+                    "Stable": 160,
+                    "Max": 160
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1197,
+                    "Stable": 1479,
+                    "Max": 1536
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 186,
+                    "Stable": 186,
+                    "Max": 195
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1543,
+            "Stable": 1825,
+            "Max": 1891
+        },
+        "Revenue": {
+            "Min": -131,
+            "Stable": -65,
+            "Max": 217
+        }
+    },
+    {
+        "Name": "ç²¾åˆ¶ç¡çŸ³",
+        "Amount": 1,
+        "Prices": {
+            "Min": 147,
+            "Stable": 147,
+            "Max": 147
+        },
+        "Materials": [
+            {
+                "Name": "ç¡…å²©",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 216,
+                    "Stable": 222,
+                    "Max": 228
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 216,
+            "Stable": 222,
+            "Max": 228
+        },
+        "Revenue": {
+            "Min": -81,
+            "Stable": -75,
+            "Max": -69
+        }
+    },
+    {
+        "Name": "å¼ºåŒ–æˆ˜æœ¯æŠ¤ç”²",
+        "Amount": 1,
+        "Prices": {
+            "Min": 4398,
+            "Stable": 4474,
+            "Max": 4474
+        },
+        "Materials": [
+            {
+                "Name": "å¤åˆæˆ˜æœ¯æŠ¤ç”²",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1296,
+                    "Stable": 1340,
+                    "Max": 1340
+                }
+            },
+            {
+                "Name": "å¼ºåŒ–é˜²å¼¹é™¶ç“·",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1530,
+                    "Stable": 1629,
+                    "Max": 1695
+                }
+            },
+            {
+                "Name": "æ¼†çš®é©",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 300,
+                    "Stable": 300,
+                    "Max": 320
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1320,
+                    "Stable": 1320,
+                    "Max": 1332
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4446,
+            "Stable": 4589,
+            "Max": 4687
+        },
+        "Revenue": {
+            "Min": -289,
+            "Stable": -115,
+            "Max": 28
+        }
+    },
+    {
+        "Name": "é“åˆé‡‘",
+        "Amount": 2,
+        "Prices": {
+            "Min": 846,
+            "Stable": 882,
+            "Max": 890
+        },
+        "Materials": [
+            {
+                "Name": "ç¡…å²©",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 720,
+                    "Stable": 740,
+                    "Max": 760
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 310,
+                    "Stable": 310,
+                    "Max": 325
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1030,
+            "Stable": 1050,
+            "Max": 1085
+        },
+        "Revenue": {
+            "Min": -239,
+            "Stable": -168,
+            "Max": -140
+        }
+    },
+    {
+        "Name": "éº»é†‰é’ˆ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 60,
+            "Stable": 60,
+            "Max": 60
+        },
+        "Materials": [
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 94,
+                    "Stable": 96,
+                    "Max": 108
+                }
+            },
+            {
+                "Name": "éº»é†‰å‰‚",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 152,
+                    "Stable": 152,
+                    "Max": 156
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 246,
+            "Stable": 248,
+            "Max": 264
+        },
+        "Revenue": {
+            "Min": -204,
+            "Stable": -188,
+            "Max": -186
+        }
+    },
+    {
+        "Name": "å¤©ç„¶æ ‘è„‚",
+        "Amount": 1,
+        "Prices": {
+            "Min": 130,
+            "Stable": 130,
+            "Max": 130
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 335,
+                    "Stable": 335,
+                    "Max": 335
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 335,
+            "Stable": 335,
+            "Max": 335
+        },
+        "Revenue": {
+            "Min": -205,
+            "Stable": -205,
+            "Max": -205
+        }
+    },
+    {
+        "Name": "ç»ç’ƒçº¤ç»´",
+        "Amount": 1,
+        "Prices": {
+            "Min": 90,
+            "Stable": 90,
+            "Max": 94
+        },
+        "Materials": [
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 47,
+                    "Stable": 48,
+                    "Max": 54
+                }
+            },
+            {
+                "Name": "å¡‘æ–™",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 356,
+                    "Stable": 358,
+                    "Max": 370
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 403,
+            "Stable": 406,
+            "Max": 424
+        },
+        "Revenue": {
+            "Min": -334,
+            "Stable": -316,
+            "Max": -309
+        }
+    },
+    {
+        "Name": "å†ç”Ÿè¯å‰‚",
+        "Amount": 2,
+        "Prices": {
+            "Min": 1480,
+            "Stable": 1502,
+            "Max": 1566
+        },
+        "Materials": [
+            {
+                "Name": "æ€¥æ•‘åŒ…",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 972,
+                    "Stable": 972,
+                    "Max": 972
+                }
+            },
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 188,
+                    "Stable": 192,
+                    "Max": 216
+                }
+            },
+            {
+                "Name": "é…’ç²¾",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 702,
+                    "Stable": 708,
+                    "Max": 726
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1862,
+            "Stable": 1872,
+            "Max": 1914
+        },
+        "Revenue": {
+            "Min": -434,
+            "Stable": -370,
+            "Max": -296
+        }
+    },
+    {
+        "Name": "æ¼†çš®é©",
+        "Amount": 1,
+        "Prices": {
+            "Min": 150,
+            "Stable": 150,
+            "Max": 160
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 67,
+                    "Stable": 67,
+                    "Max": 67
+                }
+            },
+            {
+                "Name": "ç²˜è†œé©",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 550,
+                    "Stable": 550,
+                    "Max": 580
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 617,
+            "Stable": 617,
+            "Max": 647
+        },
+        "Revenue": {
+            "Min": -497,
+            "Stable": -467,
+            "Max": -457
+        }
+    },
+    {
+        "Name": "ç˜´æ°”å¼¹",
+        "Amount": 2,
+        "Prices": {
+            "Min": 596,
+            "Stable": 596,
+            "Max": 620
+        },
+        "Materials": [
+            {
+                "Name": "çƒŸé›¾å¼¹",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 256,
+                    "Stable": 256,
+                    "Max": 258
+                }
+            },
+            {
+                "Name": "èŒè‡æå–æ¶²",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 132,
+                    "Stable": 136,
+                    "Max": 148
+                }
+            },
+            {
+                "Name": "å¡‘æ–™",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 712,
+                    "Stable": 716,
+                    "Max": 740
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1100,
+            "Stable": 1108,
+            "Max": 1146
+        },
+        "Revenue": {
+            "Min": -550,
+            "Stable": -512,
+            "Max": -480
+        }
+    },
+    {
+        "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1626,
+            "Stable": 1727,
+            "Max": 1766
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 402,
+                    "Stable": 402,
+                    "Max": 402
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 186,
+                    "Stable": 186,
+                    "Max": 195
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 1760,
+                    "Stable": 1760,
+                    "Max": 1776
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2348,
+            "Stable": 2348,
+            "Max": 2373
+        },
+        "Revenue": {
+            "Min": -747,
+            "Stable": -621,
+            "Max": -582
+        }
+    },
+    {
+        "Name": "12å£å¾„é¸Ÿå¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 1890,
+            "Stable": 1910,
+            "Max": 1930
+        },
+        "Materials": [
+            {
+                "Name": "12å£å¾„æ©¡èƒ¶å¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 550,
+                    "Stable": 550,
+                    "Max": 580
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 1596,
+                    "Stable": 1972,
+                    "Max": 2048
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 186,
+                    "Stable": 186,
+                    "Max": 195
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2332,
+            "Stable": 2708,
+            "Max": 2823
+        },
+        "Revenue": {
+            "Min": -933,
+            "Stable": -798,
+            "Max": -402
+        }
+    },
+    {
+        "Name": "å°¼é¾™å¸ƒ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 150,
+            "Stable": 150,
+            "Max": 150
+        },
+        "Materials": [
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 67,
+                    "Stable": 67,
+                    "Max": 67
+                }
+            },
+            {
+                "Name": "æ£‰å¸ƒ",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 882,
+                    "Stable": 894,
+                    "Max": 948
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 949,
+            "Stable": 961,
+            "Max": 1015
+        },
+        "Revenue": {
+            "Min": -865,
+            "Stable": -811,
+            "Max": -799
+        }
+    },
+    {
+        "Name": "12.7ç©ºå°–å¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 950,
+            "Stable": 950,
+            "Max": 1000
+        },
+        "Materials": [
+            {
+                "Name": "12.7æ™®é€šå¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 120,
+                    "Stable": 120,
+                    "Max": 120
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1197,
+                    "Stable": 1479,
+                    "Max": 1536
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 186,
+                    "Stable": 186,
+                    "Max": 195
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1503,
+            "Stable": 1785,
+            "Max": 1851
+        },
+        "Revenue": {
+            "Min": -901,
+            "Stable": -835,
+            "Max": -503
+        }
+    },
+    {
+        "Name": "5.56å…¨é‡‘å±å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 10940,
+            "Stable": 10940,
+            "Max": 10960
+        },
+        "Materials": [
+            {
+                "Name": "5.56ç©¿ç”²å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 4800,
+                    "Stable": 4800,
+                    "Max": 4840
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1372,
+                    "Max": 1472
+                }
+            },
+            {
+                "Name": "é˜¿é©¬æ‰˜ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1738,
+                    "Stable": 1738,
+                    "Max": 1738
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 7,
+                "Costs": {
+                    "Min": 2961,
+                    "Stable": 3087,
+                    "Max": 3115
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 805,
+                    "Stable": 805,
+                    "Max": 813
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 11384,
+            "Stable": 11802,
+            "Max": 11978
+        },
+        "Revenue": {
+            "Min": -1038,
+            "Stable": -862,
+            "Max": -424
+        }
+    },
+    {
+        "Name": "é˜¿é©¬æ‰˜ç«è¯",
+        "Amount": 1,
+        "Prices": {
+            "Min": 869,
+            "Stable": 869,
+            "Max": 869
+        },
+        "Materials": [
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1372,
+                    "Max": 1472
+                }
+            },
+            {
+                "Name": "é«˜çº¯åº¦ç¡«ç£º",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 400,
+                    "Stable": 400,
+                    "Max": 400
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1480,
+            "Stable": 1772,
+            "Max": 1872
+        },
+        "Revenue": {
+            "Min": -1003,
+            "Stable": -903,
+            "Max": -611
+        }
+    },
+    {
+        "Name": "é«˜çº¯åº¦ç¡«ç£º",
+        "Amount": 1,
+        "Prices": {
+            "Min": 200,
+            "Stable": 200,
+            "Max": 200
+        },
+        "Materials": [
+            {
+                "Name": "é…’ç²¾",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 234,
+                    "Stable": 236,
+                    "Max": 242
+                }
+            },
+            {
+                "Name": "ç²¾åˆ¶ç¡çŸ³",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 882,
+                    "Stable": 882,
+                    "Max": 882
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1116,
+            "Stable": 1118,
+            "Max": 1124
+        },
+        "Revenue": {
+            "Min": -924,
+            "Stable": -918,
+            "Max": -916
+        }
+    },
+    {
+        "Name": "çˆ†ç ´æ‰‹é›·",
+        "Amount": 2,
+        "Prices": {
+            "Min": 420,
+            "Stable": 420,
+            "Max": 420
+        },
+        "Materials": [
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 798,
+                    "Stable": 986,
+                    "Max": 1024
+                }
+            },
+            {
+                "Name": "å¡‘æ–™",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 356,
+                    "Stable": 358,
+                    "Max": 370
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1154,
+            "Stable": 1344,
+            "Max": 1394
+        },
+        "Revenue": {
+            "Min": -974,
+            "Stable": -924,
+            "Max": -734
+        }
+    },
+    {
+        "Name": "ç”µå­èŠ¯ç‰‡",
+        "Amount": 2,
+        "Prices": {
+            "Min": 400,
+            "Stable": 400,
+            "Max": 400
+        },
+        "Materials": [
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 260,
+                    "Stable": 260,
+                    "Max": 260
+                }
+            },
+            {
+                "Name": "ç¡…å²©",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 360,
+                    "Stable": 370,
+                    "Max": 380
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 846,
+                    "Stable": 882,
+                    "Max": 890
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1466,
+            "Stable": 1512,
+            "Max": 1530
+        },
+        "Revenue": {
+            "Min": -1130,
+            "Stable": -1112,
+            "Max": -1066
+        }
+    },
+    {
+        "Name": "å¼ºåŒ–é˜²å¼¹é™¶ç“·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 510,
+            "Stable": 543,
+            "Max": 565
+        },
+        "Materials": [
+            {
+                "Name": "å¤åˆé˜²å¼¹é™¶ç“·",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 747,
+                    "Stable": 747,
+                    "Max": 840
+                }
+            },
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 235,
+                    "Stable": 240,
+                    "Max": 270
+                }
+            },
+            {
+                "Name": "ç²¾åˆ¶ç¡çŸ³",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 735,
+                    "Stable": 735,
+                    "Max": 735
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 1717,
+            "Stable": 1722,
+            "Max": 1845
+        },
+        "Revenue": {
+            "Min": -1335,
+            "Stable": -1179,
+            "Max": -1152
+        }
+    },
+    {
+        "Name": "å…¨æ¯ç„å…·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 850,
+            "Stable": 991,
+            "Max": 991
+        },
+        "Materials": [
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 376,
+                    "Stable": 390,
+                    "Max": 406
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 260,
+                    "Stable": 260,
+                    "Max": 260
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1610,
+                    "Stable": 1610,
+                    "Max": 1626
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2246,
+            "Stable": 2260,
+            "Max": 2292
+        },
+        "Revenue": {
+            "Min": -1442,
+            "Stable": -1269,
+            "Max": -1255
+        }
+    },
+    {
+        "Name": "å¼ºåŒ–å¤´ç›”",
+        "Amount": 1,
+        "Prices": {
+            "Min": 2454,
+            "Stable": 2488,
+            "Max": 2488
+        },
+        "Materials": [
+            {
+                "Name": "å¤åˆå¤´ç›”",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 667,
+                    "Stable": 706,
+                    "Max": 706
+                }
+            },
+            {
+                "Name": "å¼ºåŒ–é˜²å¼¹é™¶ç“·",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 510,
+                    "Stable": 543,
+                    "Max": 565
+                }
+            },
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1880,
+                    "Stable": 1950,
+                    "Max": 2030
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 423,
+                    "Stable": 441,
+                    "Max": 445
+                }
+            },
+            {
+                "Name": "å°¼é¾™å¸ƒ",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 300,
+                    "Stable": 300,
+                    "Max": 300
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3780,
+            "Stable": 3940,
+            "Max": 4046
+        },
+        "Revenue": {
+            "Min": -1592,
+            "Stable": -1452,
+            "Max": -1292
+        }
+    },
+    {
+        "Name": "ä¸­çº§æŠ¤ç”²ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 3000,
+            "Stable": 3000,
+            "Max": 3250
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºåŒ–æˆ˜æœ¯æŠ¤ç”²",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 4398,
+                    "Stable": 4474,
+                    "Max": 4474
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4398,
+            "Stable": 4474,
+            "Max": 4474
+        },
+        "Revenue": {
+            "Min": -1474,
+            "Stable": -1474,
+            "Max": -1148
+        }
+    },
+    {
+        "Name": "ä¸­çº§å¤´ç›”ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 1000,
+            "Stable": 1000,
+            "Max": 1070
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºåŒ–å¤´ç›”",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2454,
+                    "Stable": 2488,
+                    "Max": 2488
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2454,
+            "Stable": 2488,
+            "Max": 2488
+        },
+        "Revenue": {
+            "Min": -1488,
+            "Stable": -1488,
+            "Max": -1384
+        }
+    },
+    {
+        "Name": "çº¢ç‚¹ç„å…·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1888,
+            "Stable": 1921,
+            "Max": 1921
+        },
+        "Materials": [
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1128,
+                    "Stable": 1170,
+                    "Max": 1218
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 780,
+                    "Stable": 780,
+                    "Max": 780
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1610,
+                    "Stable": 1610,
+                    "Max": 1626
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3518,
+            "Stable": 3560,
+            "Max": 3624
+        },
+        "Revenue": {
+            "Min": -1736,
+            "Stable": -1639,
+            "Max": -1597
+        }
+    },
+    {
+        "Name": "è¿‡è½½æ¿€ç´ ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 898,
+            "Stable": 898,
+            "Max": 903
+        },
+        "Materials": [
+            {
+                "Name": "å¼ºå¿ƒå‰‚",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2048,
+                    "Stable": 2083,
+                    "Max": 2096
+                }
+            },
+            {
+                "Name": "ç»ç’ƒ",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 188,
+                    "Stable": 192,
+                    "Max": 216
+                }
+            },
+            {
+                "Name": "èŒè‡æå–æ¶²",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 132,
+                    "Stable": 136,
+                    "Max": 148
+                }
+            },
+            {
+                "Name": "é«˜çº¯åº¦ç¡«ç£º",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 200,
+                    "Stable": 200,
+                    "Max": 200
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2568,
+            "Stable": 2611,
+            "Max": 2660
+        },
+        "Revenue": {
+            "Min": -1762,
+            "Stable": -1713,
+            "Max": -1665
+        }
+    },
+    {
+        "Name": "7.62ç©¿ç”²å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 4800,
+            "Stable": 4800,
+            "Max": 4800
+        },
+        "Materials": [
+            {
+                "Name": "7.62ç©ºå°–å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 1760,
+                    "Stable": 1760,
+                    "Max": 1760
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1197,
+                    "Stable": 1479,
+                    "Max": 1536
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1620,
+                    "Stable": 2058,
+                    "Max": 2208
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1269,
+                    "Stable": 1323,
+                    "Max": 1335
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5846,
+            "Stable": 6620,
+            "Max": 6839
+        },
+        "Revenue": {
+            "Min": -2039,
+            "Stable": -1820,
+            "Max": -1046
+        }
+    },
+    {
+        "Name": "æ— çƒŸç«è¯",
+        "Amount": 2,
+        "Prices": {
+            "Min": 1080,
+            "Stable": 1372,
+            "Max": 1472
+        },
+        "Materials": [
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 1995,
+                    "Stable": 2465,
+                    "Max": 2560
+                }
+            },
+            {
+                "Name": "ç²¾åˆ¶ç¡çŸ³",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 735,
+                    "Stable": 735,
+                    "Max": 735
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 2730,
+            "Stable": 3200,
+            "Max": 3295
+        },
+        "Revenue": {
+            "Min": -2215,
+            "Stable": -1828,
+            "Max": -1258
+        }
+    },
+    {
+        "Name": "12å£å¾„é¹¿å¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 5360,
+            "Stable": 5360,
+            "Max": 5380
+        },
+        "Materials": [
+            {
+                "Name": "12å£å¾„é¸Ÿå¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1890,
+                    "Stable": 1910,
+                    "Max": 1930
+                }
+            },
+            {
+                "Name": "é»‘ç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 1596,
+                    "Stable": 1972,
+                    "Max": 2048
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2160,
+                    "Stable": 2744,
+                    "Max": 2944
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 846,
+                    "Stable": 882,
+                    "Max": 890
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 6492,
+            "Stable": 7508,
+            "Max": 7812
+        },
+        "Revenue": {
+            "Min": -2452,
+            "Stable": -2148,
+            "Max": -1112
+        }
+    },
+    {
+        "Name": "9mmå…¨é‡‘å±å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 7880,
+            "Stable": 7880,
+            "Max": 7880
+        },
+        "Materials": [
+            {
+                "Name": "9mmç©¿ç”²å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 4920,
+                    "Stable": 4920,
+                    "Max": 4920
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 540,
+                    "Stable": 686,
+                    "Max": 736
+                }
+            },
+            {
+                "Name": "é˜¿é©¬æ‰˜ç«è¯",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1738,
+                    "Stable": 1738,
+                    "Max": 1738
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 2115,
+                    "Stable": 2205,
+                    "Max": 2225
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 805,
+                    "Stable": 805,
+                    "Max": 813
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 10118,
+            "Stable": 10354,
+            "Max": 10432
+        },
+        "Revenue": {
+            "Min": -2552,
+            "Stable": -2474,
+            "Max": -2238
+        }
+    },
+    {
+        "Name": "8å€é•œ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1042,
+            "Stable": 1057,
+            "Max": 1057
+        },
+        "Materials": [
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1504,
+                    "Stable": 1560,
+                    "Max": 1624
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 520,
+                    "Stable": 520,
+                    "Max": 520
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1610,
+                    "Stable": 1610,
+                    "Max": 1626
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3634,
+            "Stable": 3690,
+            "Max": 3770
+        },
+        "Revenue": {
+            "Min": -2728,
+            "Stable": -2633,
+            "Max": -2577
+        }
+    },
+    {
+        "Name": "æˆ˜æœ¯èƒŒåŒ…",
+        "Amount": 1,
+        "Prices": {
+            "Min": 578,
+            "Stable": 578,
+            "Max": 578
+        },
+        "Materials": [
+            {
+                "Name": "åŒè‚©èƒŒåŒ…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 338,
+                    "Stable": 338,
+                    "Max": 338
+                }
+            },
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 536,
+                    "Stable": 536,
+                    "Max": 536
+                }
+            },
+            {
+                "Name": "å°¼é¾™å¸ƒ",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 600,
+                    "Stable": 600,
+                    "Max": 600
+                }
+            },
+            {
+                "Name": "æ¼†çš®é©",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 450,
+                    "Stable": 450,
+                    "Max": 480
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1320,
+                    "Stable": 1320,
+                    "Max": 1332
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3244,
+            "Stable": 3244,
+            "Max": 3286
+        },
+        "Revenue": {
+            "Min": -2708,
+            "Stable": -2666,
+            "Max": -2666
+        }
+    },
+    {
+        "Name": "2å€é•œ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 324,
+            "Stable": 324,
+            "Max": 324
+        },
+        "Materials": [
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1504,
+                    "Stable": 1560,
+                    "Max": 1624
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1040,
+                    "Stable": 1040,
+                    "Max": 1040
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 620,
+                    "Stable": 620,
+                    "Max": 650
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3164,
+            "Stable": 3220,
+            "Max": 3314
+        },
+        "Revenue": {
+            "Min": -2990,
+            "Stable": -2896,
+            "Max": -2840
+        }
+    },
+    {
+        "Name": "æˆ˜æœ¯çŸ­é´",
+        "Amount": 1,
+        "Prices": {
+            "Min": 890,
+            "Stable": 893,
+            "Max": 893
+        },
+        "Materials": [
+            {
+                "Name": "è¶Šé‡çŸ­é´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 283,
+                    "Stable": 290,
+                    "Max": 290
+                }
+            },
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 134,
+                    "Stable": 134,
+                    "Max": 134
+                }
+            },
+            {
+                "Name": "æ¼†çš®é©",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 750,
+                    "Stable": 750,
+                    "Max": 800
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 2640,
+                    "Stable": 2640,
+                    "Max": 2664
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 3807,
+            "Stable": 3814,
+            "Max": 3888
+        },
+        "Revenue": {
+            "Min": -2998,
+            "Stable": -2921,
+            "Max": -2914
+        }
+    },
+    {
+        "Name": "é’›åˆé‡‘",
+        "Amount": 2,
+        "Prices": {
+            "Min": 1610,
+            "Stable": 1610,
+            "Max": 1626
+        },
+        "Materials": [
+            {
+                "Name": "ç²¾åˆ¶ç¡çŸ³",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1176,
+                    "Stable": 1176,
+                    "Max": 1176
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 3384,
+                    "Stable": 3528,
+                    "Max": 3560
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4560,
+            "Stable": 4704,
+            "Max": 4736
+        },
+        "Revenue": {
+            "Min": -3126,
+            "Stable": -3094,
+            "Max": -2934
+        }
+    },
+    {
+        "Name": "ä¸“ä¸šèƒŒåŒ…",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1999,
+            "Stable": 2052,
+            "Max": 2052
+        },
+        "Materials": [
+            {
+                "Name": "æˆ˜æœ¯èƒŒåŒ…",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 578,
+                    "Stable": 578,
+                    "Max": 578
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 520,
+                    "Stable": 520,
+                    "Max": 520
+                }
+            },
+            {
+                "Name": "é˜²æ°´å¸ƒ",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1830,
+                    "Stable": 1830,
+                    "Max": 1833
+                }
+            },
+            {
+                "Name": "ç¿»æ¯›çš®é©",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 777,
+                    "Stable": 777,
+                    "Max": 791
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1626,
+                    "Stable": 1727,
+                    "Max": 1766
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5331,
+            "Stable": 5432,
+            "Max": 5488
+        },
+        "Revenue": {
+            "Min": -3489,
+            "Stable": -3380,
+            "Max": -3279
+        }
+    },
+    {
+        "Name": "å…¨é¢æ”¹è£…ç»„åˆ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 6466,
+            "Stable": 6889,
+            "Max": 7418
+        },
+        "Materials": [
+            {
+                "Name": "è¿‘èº«å†²çªç»„åˆ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2940,
+                    "Stable": 2979,
+                    "Max": 3035
+                }
+            },
+            {
+                "Name": "ç‹™å‡»å¤§å¸ˆç»„åˆ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2775,
+                    "Stable": 2966,
+                    "Max": 3262
+                }
+            },
+            {
+                "Name": "åŒå¯¼è½¨ç»„åˆ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2763,
+                    "Stable": 2782,
+                    "Max": 3064
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1626,
+                    "Stable": 1727,
+                    "Max": 1766
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 10104,
+            "Stable": 10454,
+            "Max": 11127
+        },
+        "Revenue": {
+            "Min": -4661,
+            "Stable": -3565,
+            "Max": -2686
+        }
+    },
+    {
+        "Name": "4å€é•œ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 923,
+            "Stable": 1133,
+            "Max": 1133
+        },
+        "Materials": [
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1504,
+                    "Stable": 1560,
+                    "Max": 1624
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 1040,
+                    "Stable": 1040,
+                    "Max": 1040
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 2115,
+                    "Stable": 2205,
+                    "Max": 2225
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4659,
+            "Stable": 4805,
+            "Max": 4889
+        },
+        "Revenue": {
+            "Min": -3966,
+            "Stable": -3672,
+            "Max": -3526
+        }
+    },
+    {
+        "Name": "æ”¹è‰¯æ¡æŠŠ",
+        "Amount": 1,
+        "Prices": {
+            "Min": 500,
+            "Stable": 691,
+            "Max": 691
+        },
+        "Materials": [
+            {
+                "Name": "é€šç”¨æ¡æŠŠ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 250,
+                    "Stable": 298,
+                    "Max": 298
+                }
+            },
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 536,
+                    "Stable": 536,
+                    "Max": 536
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 3960,
+                    "Stable": 3960,
+                    "Max": 3996
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 4746,
+            "Stable": 4794,
+            "Max": 4830
+        },
+        "Revenue": {
+            "Min": -4330,
+            "Stable": -4103,
+            "Max": -4055
+        }
+    },
+    {
+        "Name": "ç²¾å‡†æªæ‰˜",
+        "Amount": 1,
+        "Prices": {
+            "Min": 899,
+            "Stable": 1168,
+            "Max": 1168
+        },
+        "Materials": [
+            {
+                "Name": "é€šç”¨æªæ‰˜",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 900,
+                    "Stable": 922,
+                    "Max": 922
+                }
+            },
+            {
+                "Name": "æ©¡èƒ¶",
+                "Amount": 8,
+                "Costs": {
+                    "Min": 536,
+                    "Stable": 536,
+                    "Max": 536
+                }
+            },
+            {
+                "Name": "ç¢³çº¤ç»´",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 3960,
+                    "Stable": 3960,
+                    "Max": 3996
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5396,
+            "Stable": 5418,
+            "Max": 5454
+        },
+        "Revenue": {
+            "Min": -4555,
+            "Stable": -4250,
+            "Max": -4228
+        }
+    },
+    {
+        "Name": "é«˜çº§æŠ¤ç”²ä¿®æŠ¤",
+        "Amount": 5,
+        "Prices": {
+            "Min": 15000,
+            "Stable": 16330,
+            "Max": 16970
+        },
+        "Materials": [
+            {
+                "Name": "ç¥ç›¾æˆ˜æœ¯æŠ¤ç”²",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 20332,
+                    "Stable": 20832,
+                    "Max": 20832
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 20332,
+            "Stable": 20832,
+            "Max": 20832
+        },
+        "Revenue": {
+            "Min": -5832,
+            "Stable": -4502,
+            "Max": -3362
+        }
+    },
+    {
+        "Name": "å¤åˆæˆ˜æœ¯æŠ¤ç”²",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1296,
+            "Stable": 1340,
+            "Max": 1340
+        },
+        "Materials": [
+            {
+                "Name": "ç‰¹ç§æˆ˜æœ¯èƒŒå¿ƒ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 998,
+                    "Stable": 1036,
+                    "Max": 1036
+                }
+            },
+            {
+                "Name": "å¤åˆé˜²å¼¹é™¶ç“·",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 2490,
+                    "Stable": 2490,
+                    "Max": 2800
+                }
+            },
+            {
+                "Name": "ç²˜è†œé©",
+                "Amount": 12,
+                "Costs": {
+                    "Min": 1320,
+                    "Stable": 1320,
+                    "Max": 1392
+                }
+            },
+            {
+                "Name": "ç»ç’ƒçº¤ç»´",
+                "Amount": 12,
+                "Costs": {
+                    "Min": 1080,
+                    "Stable": 1080,
+                    "Max": 1128
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5888,
+            "Stable": 5926,
+            "Max": 6356
+        },
+        "Revenue": {
+            "Min": -5060,
+            "Stable": -4586,
+            "Max": -4548
+        }
+    },
+    {
+        "Name": "å¤åˆå¤´ç›”",
+        "Amount": 1,
+        "Prices": {
+            "Min": 667,
+            "Stable": 706,
+            "Max": 706
+        },
+        "Materials": [
+            {
+                "Name": "æˆ˜æœ¯é¢ç½©",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 703,
+                    "Stable": 704,
+                    "Max": 704
+                }
+            },
+            {
+                "Name": "å¤åˆé˜²å¼¹é™¶ç“·",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 1494,
+                    "Stable": 1494,
+                    "Max": 1680
+                }
+            },
+            {
+                "Name": "é’¢åŒ–é•œç‰‡",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 1880,
+                    "Stable": 1950,
+                    "Max": 2030
+                }
+            },
+            {
+                "Name": "ç‰¹ç§é’¢",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 372,
+                    "Stable": 372,
+                    "Max": 390
+                }
+            },
+            {
+                "Name": "æ£‰å¸ƒ",
+                "Amount": 6,
+                "Costs": {
+                    "Min": 882,
+                    "Stable": 894,
+                    "Max": 948
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 5331,
+            "Stable": 5414,
+            "Max": 5752
+        },
+        "Revenue": {
+            "Min": -5085,
+            "Stable": -4708,
+            "Max": -4625
+        }
+    },
+    {
+        "Name": "7.62å…¨é‡‘å±å¼¹",
+        "Amount": 20,
+        "Prices": {
+            "Min": 9960,
+            "Stable": 9960,
+            "Max": 9960
+        },
+        "Materials": [
+            {
+                "Name": "7.62ç©¿ç”²å¼¹",
+                "Amount": 20,
+                "Costs": {
+                    "Min": 4800,
+                    "Stable": 4800,
+                    "Max": 4800
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 1620,
+                    "Stable": 2058,
+                    "Max": 2208
+                }
+            },
+            {
+                "Name": "é˜¿é©¬æ‰˜ç«è¯",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2607,
+                    "Stable": 2607,
+                    "Max": 2607
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 7,
+                "Costs": {
+                    "Min": 2961,
+                    "Stable": 3087,
+                    "Max": 3115
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 2415,
+                    "Stable": 2415,
+                    "Max": 2439
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 14403,
+            "Stable": 14967,
+            "Max": 15169
+        },
+        "Revenue": {
+            "Min": -5209,
+            "Stable": -5007,
+            "Max": -4443
+        }
+    },
+    {
+        "Name": "4å€ä¾§ç„å…·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1201,
+            "Stable": 1201,
+            "Max": 1201
+        },
+        "Materials": [
+            {
+                "Name": "çº¢ç‚¹ç„å…·",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1888,
+                    "Stable": 1921,
+                    "Max": 1921
+                }
+            },
+            {
+                "Name": "4å€é•œ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 923,
+                    "Stable": 1133,
+                    "Max": 1133
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 260,
+                    "Stable": 260,
+                    "Max": 260
+                }
+            },
+            {
+                "Name": "é˜²åŒ–æ¶‚å±‚å¸ƒ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2500,
+                    "Stable": 2500,
+                    "Max": 2572
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1626,
+                    "Stable": 1727,
+                    "Max": 1766
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 7197,
+            "Stable": 7541,
+            "Max": 7652
+        },
+        "Revenue": {
+            "Min": -6451,
+            "Stable": -6340,
+            "Max": -5996
+        }
+    },
+    {
+        "Name": "ä¸“å®¶æˆ˜é´",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1928,
+            "Stable": 1928,
+            "Max": 1928
+        },
+        "Materials": [
+            {
+                "Name": "æˆ˜æœ¯çŸ­é´",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 890,
+                    "Stable": 893,
+                    "Max": 893
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 5,
+                "Costs": {
+                    "Min": 650,
+                    "Stable": 650,
+                    "Max": 650
+                }
+            },
+            {
+                "Name": "ç¿»æ¯›çš®é©",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1554,
+                    "Stable": 1554,
+                    "Max": 1582
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 4878,
+                    "Stable": 5181,
+                    "Max": 5298
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 7972,
+            "Stable": 8278,
+            "Max": 8423
+        },
+        "Revenue": {
+            "Min": -6495,
+            "Stable": -6350,
+            "Max": -6044
+        }
+    },
+    {
+        "Name": "12å£å¾„ç®­å¼¹",
+        "Amount": 10,
+        "Prices": {
+            "Min": 9970,
+            "Stable": 9970,
+            "Max": 10060
+        },
+        "Materials": [
+            {
+                "Name": "12å£å¾„é¹¿å¼¹",
+                "Amount": 10,
+                "Costs": {
+                    "Min": 5360,
+                    "Stable": 5360,
+                    "Max": 5380
+                }
+            },
+            {
+                "Name": "æ— çƒŸç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 2160,
+                    "Stable": 2744,
+                    "Max": 2944
+                }
+            },
+            {
+                "Name": "é˜¿é©¬æ‰˜ç«è¯",
+                "Amount": 4,
+                "Costs": {
+                    "Min": 3476,
+                    "Stable": 3476,
+                    "Max": 3476
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 9,
+                "Costs": {
+                    "Min": 3807,
+                    "Stable": 3969,
+                    "Max": 4005
+                }
+            },
+            {
+                "Name": "é’›åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 1610,
+                    "Stable": 1610,
+                    "Max": 1626
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 16413,
+            "Stable": 17159,
+            "Max": 17431
+        },
+        "Revenue": {
+            "Min": -7461,
+            "Stable": -7189,
+            "Max": -6353
+        }
+    },
+    {
+        "Name": "8å€ä¾§ç„å…·",
+        "Amount": 1,
+        "Prices": {
+            "Min": 1505,
+            "Stable": 1505,
+            "Max": 1505
+        },
+        "Materials": [
+            {
+                "Name": "çº¢ç‚¹ç„å…·",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1888,
+                    "Stable": 1921,
+                    "Max": 1921
+                }
+            },
+            {
+                "Name": "8å€é•œ",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 1042,
+                    "Stable": 1057,
+                    "Max": 1057
+                }
+            },
+            {
+                "Name": "å¤©ç„¶æ ‘è„‚",
+                "Amount": 3,
+                "Costs": {
+                    "Min": 390,
+                    "Stable": 390,
+                    "Max": 390
+                }
+            },
+            {
+                "Name": "é“åˆé‡‘",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 846,
+                    "Stable": 882,
+                    "Max": 890
+                }
+            },
+            {
+                "Name": "å®šå‹äººé€ é©",
+                "Amount": 1,
+                "Costs": {
+                    "Min": 2500,
+                    "Stable": 2500,
+                    "Max": 2509
+                }
+            },
+            {
+                "Name": "å‡¯å¤«æ‹‰çº¤ç»´",
+                "Amount": 2,
+                "Costs": {
+                    "Min": 3252,
+                    "Stable": 3454,
+                    "Max": 3532
+                }
+            }
+        ],
+        "Costs": {
+            "Min": 9918,
+            "Stable": 10204,
+            "Max": 10299
+        },
+        "Revenue": {
+            "Min": -8794,
+            "Stable": -8699,
+            "Max": -8413
+        }
+    }
+]
